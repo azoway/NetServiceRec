@@ -57,6 +57,12 @@ jobs:
             exit 0
           fi
 
+          # 确保 auto-sync 标签存在
+          if ! gh label list | grep -q "auto-sync"; then
+            echo "🏷️ Creating auto-sync label..."
+            gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
+          fi
+
           # 将文件列表转换为数组并处理转义字符
           while IFS= read -r file; do
             # 跳过空行
