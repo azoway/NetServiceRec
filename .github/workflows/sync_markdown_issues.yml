@@ -66,13 +66,35 @@ jobs:
             gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
           fi
 
+          # 创建 Python 解码脚本
+          cat > decode_path.py << 'EOF'
+          import sys
+          import re
+
+          def decode_escaped_string(s):
+              # 移除引号
+              s = s.strip('"')
+              # 解码转义序列
+              return s.encode('utf-8').decode('unicode_escape')
+
+          for line in sys.stdin:
+              line = line.strip()
+              if line:
+                  try:
+                      decoded = decode_escaped_string(line)
+                      print(decoded)
+                  except Exception as e:
+                      print(f"Error decoding {line}: {e}", file=sys.stderr)
+                      print(line)
+          EOF
+
           # 处理每个文件
           while IFS= read -r file; do
             # 跳过空行
             [[ -z "$file" ]] && continue
             
-            # 清理文件路径并解码转义字符
-            file_path=$(echo "$file" | sed 's/^"//;s/"$//' | sed 's/\\//g' | perl -MEncode -pe 's/(\\[0-9a-fA-F]{3})/chr(oct($1))/ge')
+            # 使用 Python 脚本解码文件路径
+            file_path=$(echo "$file" | python3 decode_path.py)
             echo "Processing file: $file_path"
 
             # 检查文件是否存在
