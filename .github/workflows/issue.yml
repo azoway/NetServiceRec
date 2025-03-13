@@ -1,0 +1,42 @@
+name: "Sync MD files to Issues"
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+    branches:
+      - main
+
+jobs:
+  create-or-update-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+        with:
+          files: "**/*.md"
+
+      - name: Create or update an issue for each changed file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            title="📄 更新了 $file"
+            content=$(cat "$file")
+
+            # 检查是否已有同名 Issue
+            issue_number=$(gh issue list --state open --search "$title" --json number --jq '.[0].number')
+            
+            if [[ -n "$issue_number" ]]; then
+              # 如果 Issue 已存在，更新内容
+              gh issue edit "$issue_number" --body "$content"
+              echo "✅ 已更新 Issue #$issue_number"
+            else
+              # 否则创建新的 Issue
+              gh issue create --title "$title" --body "$content" --label "auto-sync"
+              echo "✨ 创建了新的 Issue"
+            fi
