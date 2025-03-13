@@ -9,7 +9,7 @@ To start using DeepSeek, you can either register online or deploy the model loca
    - 打开 DeepSeek 官方网站：[https://www.deepseek.com/](https://www.deepseek.com/)。
 
 2. **注册账号**：
-   - 点击页面上的“注册”或“Sign Up”按钮。
+   - 点击页面上的“注册”或“Sign Up”按钮
    - 输入您的手机号，设置密码，按照提示完成注册流程  
    - 如果需要中国的手机号可以使用接码平台的号码进行辅助注册，以下是注册渠道 
    - If you need a Chinese phone number, you can use a SMS activation platform number for assisted. registration. Below are the registration channels:
