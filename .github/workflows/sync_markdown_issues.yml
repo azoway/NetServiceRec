@@ -57,14 +57,23 @@ jobs:
             exit 0
           fi
 
+          # 将文件列表转换为数组
+          IFS=$'\n' read -d '' -r -a files <<< "$changed_files" || true
+
           # 遍历每个变更的 .md 文件
-          while IFS= read -r file; do
+          for file in "${files[@]}"; do
             # 跳过空行
             [[ -z "$file" ]] && continue
             
-            # 确保文件路径正确处理
-            file_path="$file"
+            # 清理文件路径（移除可能的引号）
+            file_path="${file//\"/}"
             echo "Processing file: $file_path"
+
+            # 检查文件是否存在
+            if [[ ! -f "$file_path" ]]; then
+              echo "❌ 文件不存在: $file_path"
+              continue
+            fi
 
             # 提取文件名作为 Issue 标题
             title="$(basename "$file_path")"
@@ -84,5 +93,5 @@ jobs:
               gh issue create --title "$title" --body "$content" --label "auto-sync"
               echo "✨ 创建了新的 Issue: $title"
             fi
-          done <<< "$changed_files"
+          done
         shell: bash
