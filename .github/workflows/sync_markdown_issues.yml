@@ -58,7 +58,10 @@ jobs:
           fi
 
           # 遍历每个变更的 .md 文件
-          for file in $changed_files; do
+          while IFS= read -r file; do
+            # 跳过空行
+            [[ -z "$file" ]] && continue
+            
             # 确保文件路径正确处理
             file_path="$file"
             echo "Processing file: $file_path"
@@ -81,5 +84,5 @@ jobs:
               gh issue create --title "$title" --body "$content" --label "auto-sync"
               echo "✨ 创建了新的 Issue: $title"
             fi
-          done
+          done <<< "$changed_files"
         shell: bash
