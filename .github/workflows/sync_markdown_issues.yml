@@ -59,9 +59,13 @@ jobs:
 
           # 遍历每个变更的 .md 文件
           for file in $changed_files; do
+            # 确保文件路径正确处理
+            file_path="$file"
+            echo "Processing file: $file_path"
+
             # 提取文件名作为 Issue 标题
-            title="📄 $(basename "$file") 更新了"
-            content=$(cat "$file")
+            title="📄 $(basename "$file_path") 更新了"
+            content=$(cat "$file_path")
 
             # 🕵️ 检查是否已有同名 Issue
             issue_number=$(gh issue list --state open --search "$title" --json number --jq '.[0].number')
