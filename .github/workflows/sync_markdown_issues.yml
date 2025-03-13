@@ -5,7 +5,7 @@ on:
     paths:
       - '**/*.md'  # 监听所有 Markdown 文件变化
     branches:
-      - main  # 只在 main 分支触发，你可以改成其他分支
+      - main  # 只在 main 分支触发
 
 jobs:
   sync_issue:
@@ -22,12 +22,17 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y gh
 
-      # 🔍 检测变更的 Markdown 文件
-      - name: Get changed Markdown files
+      # 🔍 检测内容变化的 Markdown 文件
+      - name: Get changed Markdown files (with content diff check)
         id: changed-files
         run: |
-          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '.md' || true)
+          # 检查所有 .md 文件的内容变化
+          changed_files=$(git diff --diff-filter=AM --name-only ${{ github.event.before }} ${{ github.sha }} | grep '.md' || true)
+
+          # 输出变更的文件
+          echo "Detected changed files: $changed_files"
           echo "changed_files=${changed_files}" >> $GITHUB_ENV
+
         shell: bash
 
       # ⚡️ 处理每个变更的 Markdown 文件
@@ -37,7 +42,7 @@ jobs:
         run: |
           # 如果没有变更的 Markdown 文件就退出
           if [[ -z "$changed_files" ]]; then
-            echo "🎉 No markdown files changed. Exiting."
+            echo "🎉 No markdown file content changed. Exiting."
             exit 0
           fi
 
