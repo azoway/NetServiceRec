@@ -43,7 +43,10 @@ jobs:
 
           # 输出变更的文件
           echo "Detected changed files: $changed_files"
-          echo "changed_files=${changed_files}" >> $GITHUB_ENV
+          
+          # 将文件列表保存到临时文件
+          echo "$changed_files" > changed_files.txt
+          echo "changed_files=@changed_files.txt" >> $GITHUB_ENV
         shell: bash
 
       # ⚡️ 创建或更新 Issue
@@ -52,7 +55,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # 如果没有变更的 Markdown 文件就退出
-          if [[ -z "$changed_files" ]]; then
+          if [[ ! -f changed_files.txt ]] || [[ ! -s changed_files.txt ]]; then
             echo "🎉 No markdown file content changed. Exiting."
             exit 0
           fi
@@ -63,20 +66,19 @@ jobs:
             gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
           fi
 
-          # 将文件列表转换为数组并处理转义字符
+          # 处理每个文件
           while IFS= read -r file; do
             # 跳过空行
             [[ -z "$file" ]] && continue
             
-            # 移除引号并处理转义字符
-            file_path=$(printf '%b' "${file//\"/}")
+            # 清理文件路径
+            file_path=$(echo "$file" | sed 's/^"//;s/"$//' | sed 's/\\//g')
             echo "Processing file: $file_path"
 
             # 检查文件是否存在
             if [[ ! -f "$file_path" ]]; then
               echo "❌ 文件不存在: $file_path"
               echo "原始文件路径: $file"
-              echo "处理后的路径: $file_path"
               continue
             fi
 
@@ -98,5 +100,5 @@ jobs:
               gh issue create --title "$title" --body "$content" --label "auto-sync"
               echo "✨ 创建了新的 Issue: $title"
             fi
-          done <<< "$changed_files"
+          done < changed_files.txt
         shell: bash
