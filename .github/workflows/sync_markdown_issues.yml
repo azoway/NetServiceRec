@@ -66,65 +66,19 @@ jobs:
             gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
           fi
 
-          # 创建 Python 解码脚本
-          cat > decode_path.py << 'EOF'
-          import sys
-          import re
-
-          def decode_escaped_string(s):
-              # 移除引号
-              s = s.strip('"')
-              
-              # 分割字符串为转义和非转义部分
-              parts = []
-              current = 0
-              
-              while current < len(s):
-                  if s[current] == '\\':
-                      # 找到转义序列
-                      hex_str = s[current+1:current+4]
-                      if len(hex_str) == 3 and all(c in '0123456789abcdefABCDEF' for c in hex_str):
-                          # 将十六进制转换为字节
-                          byte = bytes.fromhex(hex_str)
-                          # 将字节解码为 UTF-8 字符
-                          parts.append(byte.decode('utf-8'))
-                          current += 4
-                      else:
-                          # 如果不是有效的转义序列，保留原样
-                          parts.append(s[current])
-                          current += 1
-                  else:
-                      # 非转义字符
-                      parts.append(s[current])
-                      current += 1
-              
-              return ''.join(parts)
-
-          for line in sys.stdin:
-              line = line.strip()
-              if line:
-                  try:
-                      decoded = decode_escaped_string(line)
-                      print(decoded)
-                  except Exception as e:
-                      print(f"Error decoding {line}: {e}", file=sys.stderr)
-                      print(line)
-          EOF
-
           # 处理每个文件
           while IFS= read -r file; do
             # 跳过空行
             [[ -z "$file" ]] && continue
             
-            # 使用 Python 脚本解码文件路径
-            file_path=$(echo "$file" | python3 decode_path.py)
+            # 移除引号并处理转义字符
+            file_path=$(printf '%b' "${file//\"/}")
             echo "Processing file: $file_path"
 
             # 检查文件是否存在
             if [[ ! -f "$file_path" ]]; then
               echo "❌ 文件不存在: $file_path"
               echo "原始文件路径: $file"
-              echo "解码后的路径: $file_path"
               continue
             fi
 
