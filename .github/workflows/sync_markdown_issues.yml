@@ -82,8 +82,9 @@ jobs:
               continue
             fi
 
-            # 提取文件名作为 Issue 标题
+            # 提取文件名作为 Issue 标题和 Wiki 页面名
             title="$(basename "$file_path")"
+            wiki_title="${title%.md}"  # 移除 .md 扩展名
             content=$(cat "$file_path")
 
             # 🕵️ 检查是否已有同名 Issue
@@ -99,6 +100,20 @@ jobs:
               echo "🆕 Creating new issue: $title"
               gh issue create --title "$title" --body "$content" --label "auto-sync"
               echo "✨ 创建了新的 Issue: $title"
+            fi
+
+            # 📚 更新 Wiki 页面
+            echo "📚 Updating Wiki page: $wiki_title"
+            if gh wiki page view "$wiki_title" > /dev/null 2>&1; then
+              # 如果 Wiki 页面存在，更新内容
+              echo "🔄 Wiki page exists, updating..."
+              gh wiki edit "$wiki_title" --body "$content"
+              echo "✅ 已更新 Wiki 页面: $wiki_title"
+            else
+              # 如果 Wiki 页面不存在，创建新页面
+              echo "🆕 Creating new Wiki page: $wiki_title"
+              gh wiki create "$wiki_title" --body "$content"
+              echo "✨ 创建了新的 Wiki 页面: $wiki_title"
             fi
           done < changed_files.txt
         shell: bash
