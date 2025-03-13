@@ -4,7 +4,7 @@
 
 - 🚀 超低延迟，访问速度快
 - 🎬 支持解锁Netflix、Disney+等流媒体
-- 🤖 支持访问ChatGPT等AI服务
+- 🤖 支持访问ChatGPT等AI服务.
 - 🌐 优质的国际网络链路(NTT/PCCW/EIE)
 - 📺 支持MytvSuper等香港本地流媒体
 - 🔒 内置AKILE DNS香港内网解锁功能

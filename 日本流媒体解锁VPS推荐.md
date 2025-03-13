@@ -2,7 +2,7 @@
 
 ## 为什么选择日本VPS？
 
-- 🚀 超低延迟，观看流媒体无卡顿
+- 🚀 超低延迟，观看流媒体无卡顿.
 - 🌐 优质国际网络接入（GSL/PCCW/COGENT/EIE/JPNAP）
 - 📺 完美解锁：Netflix、Disney+、Youtube、ChatGPT、Abema、DMM等
 - 💰 性价比高，支持按月付费
