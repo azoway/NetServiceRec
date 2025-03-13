@@ -63,7 +63,7 @@ jobs:
           # 确保 auto-sync 标签存在
           if ! gh label list | grep -q ".🔥"; then
             echo "🏷️ Creating auto-sync label..."
-            gh label create ".🔥" --color "d73a4a" --description ".🔥"
+            gh label create ".🔥" --color "ED7150" --description ".🔥"
           fi
 
           # 处理每个文件
