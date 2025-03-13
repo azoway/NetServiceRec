@@ -74,8 +74,10 @@ jobs:
           def decode_escaped_string(s):
               # 移除引号
               s = s.strip('"')
-              # 解码转义序列
-              return s.encode('utf-8').decode('unicode_escape')
+              # 将转义序列转换为字节
+              bytes_data = bytes.fromhex(''.join(s.split('\\')[1:]))
+              # 将字节解码为 UTF-8 字符串
+              return bytes_data.decode('utf-8')
 
           for line in sys.stdin:
               line = line.strip()
