@@ -1,0 +1,65 @@
+name: Sync Markdown to Issue
+
+on:
+  push:
+    paths:
+      - '**/*.md'  # 监听所有 Markdown 文件变化
+    branches:
+      - main  # 只在 main 分支触发，你可以改成其他分支
+
+jobs:
+  sync_issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 🚀 拉取代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 🎯 安装 GitHub CLI
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh
+
+      # 🔍 检测变更的 Markdown 文件
+      - name: Get changed Markdown files
+        id: changed-files
+        run: |
+          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '.md' || true)
+          echo "changed_files=${changed_files}" >> $GITHUB_ENV
+        shell: bash
+
+      # ⚡️ 处理每个变更的 Markdown 文件
+      - name: Create or Update Issues for Markdown files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 如果没有变更的 Markdown 文件就退出
+          if [[ -z "$changed_files" ]]; then
+            echo "🎉 No markdown files changed. Exiting."
+            exit 0
+          fi
+
+          # 遍历每个变更的 .md 文件
+          for file in $changed_files; do
+            # 提取文件名作为 Issue 标题
+            title="📄 $(basename "$file") 更新了"
+            content=$(cat "$file")
+
+            # 🕵️ 检查是否已有同名 Issue
+            issue_number=$(gh issue list --state open --search "$title" --json number --jq '.[0].number')
+
+            if [[ -n "$issue_number" ]]; then
+              # ✏️ 如果 Issue 已存在，更新内容
+              echo "🔄 Issue #$issue_number already exists. Updating..."
+              gh issue edit "$issue_number" --body "$content"
+              echo "✅ 已更新 Issue #$issue_number"
+            else
+              # ✨ 创建新的 Issue
+              echo "🆕 Creating new issue: $title"
+              gh issue create --title "$title" --body "$content" --label "auto-sync"
+              echo "✨ 创建了新的 Issue: $title"
+            fi
+          done
+        shell: bash
