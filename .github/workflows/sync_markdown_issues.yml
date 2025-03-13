@@ -60,12 +60,6 @@ jobs:
             exit 0
           fi
 
-          # 确保 auto-sync 标签存在
-          if ! gh label list | grep -q ".🔥"; then
-            echo "🏷️ Creating auto-sync label..."
-            gh label create ".🔥" --color "ED7150" --description ".🔥"
-          fi
-
           # 处理每个文件
           while IFS= read -r file; do
             # 跳过空行
@@ -87,7 +81,7 @@ jobs:
             content=$(cat "$file_path")
 
             # 🕵️ 检查是否已有同名 Issue
-            issue_number=$(gh issue list --label ".🔥" --state all --search "$title" --json "number" | jq -r '.[0].number // ""')
+            issue_number=$(gh issue list --state all --search "$title" --json "number" | jq -r '.[0].number // ""')
 
             if [[ -n "$issue_number" ]]; then
               # ✏️ 如果 Issue 已存在，更新内容
@@ -97,7 +91,7 @@ jobs:
             else
               # ✨ 创建新的 Issue
               echo "🆕 Creating new issue: $title"
-              gh issue create --title "$title" --body "$content" --label ".🔥"
+              gh issue create --title "$title" --body "$content"
               echo "✨ 创建了新的 Issue: $title"
             fi
           done < changed_files.txt
