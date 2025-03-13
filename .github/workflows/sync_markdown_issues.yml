@@ -1,4 +1,4 @@
-name: Sync Markdown to Issue
+name: Sync Markdown to Issues
 
 on:
   push:
@@ -12,9 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 🚀 拉取代码
+      # 🚀 拉取完整代码历史
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 关键：拉取完整历史，避免 SHA 缺失问题
 
       # 🎯 安装 GitHub CLI
       - name: Install GitHub CLI
@@ -22,20 +24,29 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y gh
 
-      # 🔍 检测内容变化的 Markdown 文件
+      # 🔍 检测 Markdown 文件内容变化
       - name: Get changed Markdown files (with content diff check)
         id: changed-files
         run: |
-          # 检查所有 .md 文件的内容变化
-          changed_files=$(git diff --diff-filter=AM --name-only ${{ github.event.before }} ${{ github.sha }} | grep '.md' || true)
+          # 获取当前 SHA
+          current_sha=${{ github.sha }}
+          before_sha=${{ github.event.before }}
+
+          # 🎯 处理首次提交、新分支等特殊情况
+          if [[ "$before_sha" == "0000000000000000000000000000000000000000" || -z "$before_sha" ]]; then
+            # 如果 before_sha 为空，说明是新分支或首次提交，使用上一次提交比较
+            before_sha=$(git rev-parse HEAD~1)
+          fi
+
+          # 🔥 检查所有内容有变化的 .md 文件
+          changed_files=$(git diff --diff-filter=AM --name-only "$before_sha" "$current_sha" | grep '.md' || true)
 
           # 输出变更的文件
           echo "Detected changed files: $changed_files"
           echo "changed_files=${changed_files}" >> $GITHUB_ENV
-
         shell: bash
 
-      # ⚡️ 处理每个变更的 Markdown 文件
+      # ⚡️ 创建或更新 Issue
       - name: Create or Update Issues for Markdown files
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
