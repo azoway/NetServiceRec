@@ -41,9 +41,12 @@ jobs:
           # 🔥 检查所有内容有变化的 .md 文件
           changed_files=$(git diff --diff-filter=AM --name-only "$before_sha" "$current_sha" | grep '.md' || true)
 
+          # 清理文件路径中的多余引号和转义字符
+          changed_files_cleaned=$(echo "$changed_files" | sed 's/\\//g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+
           # 输出变更的文件
-          echo "Detected changed files: $changed_files"
-          echo "changed_files=${changed_files}" >> $GITHUB_ENV
+          echo "Detected changed files: $changed_files_cleaned"
+          echo "changed_files=${changed_files_cleaned}" >> $GITHUB_ENV
         shell: bash
 
       # ⚡️ 创建或更新 Issue
@@ -58,7 +61,7 @@ jobs:
           fi
 
           # 遍历每个变更的 .md 文件
-          for file in $changed_files; do
+          for file in $changed_files_cleaned; do
             # 确保文件路径正确处理
             file_path="$file"
             echo "Processing file: $file_path"
