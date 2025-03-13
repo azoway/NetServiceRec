@@ -66,6 +66,10 @@ jobs:
             gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
           fi
 
+          # 获取仓库信息
+          REPO_OWNER=$(echo $GITHUB_REPOSITORY | cut -d'/' -f1)
+          REPO_NAME=$(echo $GITHUB_REPOSITORY | cut -d'/' -f2)
+
           # 处理每个文件
           while IFS= read -r file; do
             # 跳过空行
@@ -104,15 +108,25 @@ jobs:
 
             # 📚 更新 Wiki 页面
             echo "📚 Updating Wiki page: $wiki_title"
-            if gh wiki page view "$wiki_title" > /dev/null 2>&1; then
+            
+            # 检查 Wiki 页面是否存在
+            if curl -s -o /dev/null -w "%{http_code}" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/wiki/$wiki_title" | grep -q "200"; then
               # 如果 Wiki 页面存在，更新内容
               echo "🔄 Wiki page exists, updating..."
-              gh wiki edit "$wiki_title" --body "$content"
+              curl -X PUT \
+                -H "Authorization: token $GITHUB_TOKEN" \
+                -H "Content-Type: application/json" \
+                -d "{\"content\":\"$(echo "$content" | base64 -w 0)\",\"message\":\"Update $wiki_title from Markdown\"}" \
+                "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/wiki/$wiki_title"
               echo "✅ 已更新 Wiki 页面: $wiki_title"
             else
               # 如果 Wiki 页面不存在，创建新页面
               echo "🆕 Creating new Wiki page: $wiki_title"
-              gh wiki create "$wiki_title" --body "$content"
+              curl -X PUT \
+                -H "Authorization: token $GITHUB_TOKEN" \
+                -H "Content-Type: application/json" \
+                -d "{\"content\":\"$(echo "$content" | base64 -w 0)\",\"message\":\"Create $wiki_title from Markdown\"}" \
+                "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/wiki/$wiki_title"
               echo "✨ 创建了新的 Wiki 页面: $wiki_title"
             fi
           done < changed_files.txt
