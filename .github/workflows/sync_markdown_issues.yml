@@ -61,9 +61,9 @@ jobs:
           fi
 
           # 确保 auto-sync 标签存在
-          if ! gh label list | grep -q "auto-sync"; then
+          if ! gh label list | grep -q ".🔥"; then
             echo "🏷️ Creating auto-sync label..."
-            gh label create "auto-sync" --color "0E8A16" --description "自动同步的 Markdown 文件"
+            gh label create ".🔥" --color "d73a4a" --description ".🔥"
           fi
 
           # 处理每个文件
