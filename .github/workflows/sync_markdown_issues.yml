@@ -74,10 +74,31 @@ jobs:
           def decode_escaped_string(s):
               # 移除引号
               s = s.strip('"')
-              # 将转义序列转换为字节
-              bytes_data = bytes.fromhex(''.join(s.split('\\')[1:]))
-              # 将字节解码为 UTF-8 字符串
-              return bytes_data.decode('utf-8')
+              
+              # 分割字符串为转义和非转义部分
+              parts = []
+              current = 0
+              
+              while current < len(s):
+                  if s[current] == '\\':
+                      # 找到转义序列
+                      hex_str = s[current+1:current+4]
+                      if len(hex_str) == 3 and all(c in '0123456789abcdefABCDEF' for c in hex_str):
+                          # 将十六进制转换为字节
+                          byte = bytes.fromhex(hex_str)
+                          # 将字节解码为 UTF-8 字符
+                          parts.append(byte.decode('utf-8'))
+                          current += 4
+                      else:
+                          # 如果不是有效的转义序列，保留原样
+                          parts.append(s[current])
+                          current += 1
+                  else:
+                      # 非转义字符
+                      parts.append(s[current])
+                      current += 1
+              
+              return ''.join(parts)
 
           for line in sys.stdin:
               line = line.strip()
