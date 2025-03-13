@@ -71,14 +71,15 @@ jobs:
             # 跳过空行
             [[ -z "$file" ]] && continue
             
-            # 清理文件路径
-            file_path=$(echo "$file" | sed 's/^"//;s/"$//' | sed 's/\\//g')
+            # 清理文件路径并解码转义字符
+            file_path=$(echo "$file" | sed 's/^"//;s/"$//' | sed 's/\\//g' | perl -MEncode -pe 's/(\\[0-9a-fA-F]{3})/chr(oct($1))/ge')
             echo "Processing file: $file_path"
 
             # 检查文件是否存在
             if [[ ! -f "$file_path" ]]; then
               echo "❌ 文件不存在: $file_path"
               echo "原始文件路径: $file"
+              echo "解码后的路径: $file_path"
               continue
             fi
 
