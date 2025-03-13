@@ -5,7 +5,7 @@
 - 🚀 超低延迟，观看流媒体无卡顿.
 - 🌐 优质国际网络接入（GSL/PCCW/COGENT/EIE/JPNAP）
 - 📺 完美解锁：Netflix、Disney+、Youtube、ChatGPT、Abema、DMM等
-- 💰 性价比高，支持按月付费.
+- 💰 性价比高，支持按月付费
 - 🔒 安全稳定，支持IPv4/IPv6双栈
 
 ## JPHyper VPS套餐详细对比
