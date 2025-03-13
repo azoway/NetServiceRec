@@ -87,7 +87,7 @@ jobs:
             content=$(cat "$file_path")
 
             # 🕵️ 检查是否已有同名 Issue
-            issue_number=$(gh issue list --label "auto-sync" --state all --search "$title" --json "number" | jq -r '.[0].number // ""')
+            issue_number=$(gh issue list --label ".🔥" --state all --search "$title" --json "number" | jq -r '.[0].number // ""')
 
             if [[ -n "$issue_number" ]]; then
               # ✏️ 如果 Issue 已存在，更新内容
@@ -97,7 +97,7 @@ jobs:
             else
               # ✨ 创建新的 Issue
               echo "🆕 Creating new issue: $title"
-              gh issue create --title "$title" --body "$content" --label "auto-sync"
+              gh issue create --title "$title" --body "$content" --label ".🔥"
               echo "✨ 创建了新的 Issue: $title"
             fi
           done < changed_files.txt
