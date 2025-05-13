@@ -21,7 +21,7 @@ CPU 1核 ｜ 内存 2048 M
 IPv4 1个 ｜ IPv6 0个
 ¥54.99/月
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=976
+下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=976&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
 
 ### LAX4837-ISPStarter（标准级）
 CPU 2核 ｜ 内存 2048 M
@@ -31,7 +31,7 @@ CPU 2核 ｜ 内存 2048 M
 IPv4 1个 ｜ IPv6 0个
 ¥74.99/月
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=977
+下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=977&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
 
 ### LAX4837-ISPStandard（进阶级）
 CPU 4核 ｜ 内存 4096 M
@@ -41,7 +41,7 @@ CPU 4核 ｜ 内存 4096 M
 IPv4 1个 ｜ IPv6 0个
 ¥94.99/月
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=978
+下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=978&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
 
 ### LAX4837-ISPPro（专业级）
 CPU 4核 ｜ 内存 8192 M
@@ -51,7 +51,7 @@ CPU 4核 ｜ 内存 8192 M
 IPv4 1个 ｜ IPv6 0个
 ¥184.99/月
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=979
+下单链接：https://akile.io/shop/server?type=traffic&areaId=2&nodeId=30&planId=979&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
 
 ## 🔍 使用建议
 
