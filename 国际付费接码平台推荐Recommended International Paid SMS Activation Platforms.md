@@ -29,7 +29,7 @@
 
 ## ⚡️ 快速开始 {#快速开始}
 
-[🔥 点击这里访问平台官方注册页面（优惠码：SMS2025）](https://sms-activate.org/?ref=3245417)
+[🔥 点击这里访问平台官方注册页面（优惠码：SMS2025）](https://hero-sms.com/?ref=509318)
 
 ### 新用户专享优惠
 - 🎁 首充送20%额外余额
@@ -159,7 +159,7 @@
 - 💰 Auto-refund if no code received in 20 minutes
 - 🔄 Daily updates with fresh numbers
 
-[🔥 Quick Registration Access](https://sms-activate.org/?ref=3245417)
+[🔥 Quick Registration Access](https://hero-sms.com/?ref=509318)
 
 ## 📱 Service Highlights
 
