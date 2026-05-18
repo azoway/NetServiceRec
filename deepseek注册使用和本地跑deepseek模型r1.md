@@ -14,9 +14,9 @@ To start using DeepSeek, you can either register online or deploy the model loca
    - 如果需要中国的手机号可以使用接码平台的号码进行辅助注册，以下是注册渠道 
    - If you need a Chinese phone number, you can use a SMS activation platform number for assisted. registration. Below are the registration channels:
    - [中国版接码平台快速注册deepseek直达地址](http://h5.yezi66.net:90/invite/9607189)
-   - [国际版接码平台快速注册deepseek直达地址](https://sms-activate.org/?ref=3245417)
+   - [国际版接码平台快速注册deepseek直达地址](https://hero-sms.com/?ref=509318)
    - [Quick Registration Link for the China Version of SMS Activation Platform - Direct Access to DeepSeek](http://h5.yezi66.net:90/invite/9607189)
-   - [Quick Registration Link for the International Version of SMS Activation Platform - Direct Access to DeepSeek](https://sms-activate.org/?ref=3245417)
+   - [Quick Registration Link for the International Version of SMS Activation Platform - Direct Access to DeepSeek](https://hero-sms.com/?ref=509318)
 ---
 
 ## **二、本地部署 DeepSeek 模型**
