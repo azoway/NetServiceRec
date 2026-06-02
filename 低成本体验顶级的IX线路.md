@@ -52,7 +52,7 @@
 
 ## 1) 注册 AKCDN（IX 中转核心）
 
-👉 <https://akcdn.org/#register/NBNAJFBQTD>
+👉 <https://cdn.akile.ai/?ref=48521618>
 
 你将在这里创建“前 → 后”转发规则（前置 → VPS）
 
@@ -92,7 +92,7 @@
 
 # 💰 四、AKCDN 套餐选择
 
-👉 推荐注册链接：<https://akcdn.org/#register/NBNAJFBQTD>
+👉 推荐注册链接：<https://cdn.akile.ai/?ref=48521618>
 
 | 套餐名称    | 月付 | 速率限制      | 流量       | 规则数 | 推荐使用场景 |
 | ------- | -- | --------- | -------- | --- | ------ |
