@@ -5,7 +5,7 @@
 如果你的目标是找一台适合做中转、国际出口、或者折腾腾讯云线路玩法的 VPS，`po0` 值得看一眼；但如果你只是想买一台拿来直接跑常规网站，尤其依赖 `80/443` 这些 Web 端口，那就一定要先把商品页限制看清楚再下单。
 
 ## 官方入口
-- [po0 官方购买入口](https://console.po0.com/aff.php?aff=67)
+- [po0 官方购买入口](https://console.po0.io/aff.php?aff=67)
 
 ## po0 这家主要卖什么
 
@@ -139,7 +139,7 @@
 
 如果你第一次买 `po0`，我的建议是：
 
-1. 先注册并打开 [官方购买入口](https://console.po0.com/aff.php?aff=67)
+1. 先注册并打开 [官方购买入口](https://console.po0.io/aff.php?aff=67)
 2. 第一单优先看 `T1 香港 NANO`
 3. 买之前把商品页限制重新看一遍
 4. 机器开通后先测延迟、路由、端口和实际用途
@@ -190,7 +190,7 @@
 
 ## 购买入口
 
-- [po0 官方购买入口](https://console.po0.com/aff.php?aff=67)
+- [po0 官方购买入口](https://console.po0.io/aff.php?aff=67)
 
 ## 选购说明
 

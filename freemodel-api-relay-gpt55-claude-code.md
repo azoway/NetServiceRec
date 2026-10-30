@@ -4,7 +4,9 @@
 
 FreeModel 当前更适合两类人。第一类是经常折腾 AI 编程工具的人，希望一个 API 地址同时跑多个客户端；第二类是想测试 `gpt-5.5`、Claude Fable 5 这类模型的人，先用注册奖励或小额余额跑自己的真实任务，再决定是否长期充值。
 
-注册入口：[FreeModel 注册入口](https://freemodel.dev/invite/FRE-cb3115a9)
+注册入口：[FreeModel 注册入口](https://agentrouter.org/register?aff=Vnpm)
+
+另一个值得关注的免费 AI API 网关是 AgentRouter，同样支持 Claude Code、Cline、Cursor 等工具，当前有邀请加码 $150 和高频额度补给活动：[AgentRouter 注册入口](https://agentrouter.org/register?aff=Vnpm)
 
 ## FreeModel 是什么
 
@@ -246,7 +248,7 @@ FreeModel 更适合下面这些用户：
 
 FreeModel 当前的核心吸引点是注册绑手机号送 10 美元余额，同时覆盖 Claude API 和 OpenAI 兼容接口，并提供 Claude Fable 5、gpt-5.5 等模型路线。
 
-注册入口：[FreeModel 注册入口](https://freemodel.dev/invite/FRE-cb3115a9)
+注册入口：[FreeModel 注册入口](https://agentrouter.org/register?aff=Vnpm)
 
 建议注册后先用赠送余额做小规模测试。确认 Claude Code、Cline、Cursor、ChatBox 或自己的 SDK 项目都能正常工作，再考虑充值或升级套餐。
 
@@ -300,6 +302,6 @@ Tier 0 的请求体限制是 3MB，Tier 1+ 是 5MB。减少嵌入媒体、引用
 
 FreeModel 的卖点不是单一模型，而是接入面比较宽。Claude Code、Cline 这类 Claude API 生态工具可以用，Cursor、ChatBox、OpenAI SDK 这类 OpenAI 生态工具也能接。对经常切换 AI 编程工具的人来说，一个中转站同时覆盖两套生态，确实能少折腾不少配置。
 
-如果你还没用过这类平台，建议先通过 [FreeModel 注册入口](https://freemodel.dev/invite/FRE-cb3115a9) 注册，绑定手机号领取 10 美元余额，然后按自己的真实场景测试接口、模型、速度、限速和扣费。确认稳定后，再考虑充值余额或升级套餐。
+如果你还没用过这类平台，建议先通过 [FreeModel 注册入口](https://agentrouter.org/register?aff=Vnpm) 注册，绑定手机号领取 10 美元余额，然后按自己的真实场景测试接口、模型、速度、限速和扣费。确认稳定后，再考虑充值余额或升级套餐。
 
 本文基于 2026-06-17 用户提供信息和 FreeModel 公开入口整理。余额、模型、接口能力、套餐价格、汇率和活动规则请以 FreeModel 官网实时页面为准。

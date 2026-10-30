@@ -4,7 +4,9 @@ FreeModel is worth testing if you want one API provider for Claude Code, Cline, 
 
 The main draw is practical: you can register, claim the signup credit, create an API key, and test your own workflow before paying for a larger tier.
 
-Registration link: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+Registration link: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
+
+Another free AI API gateway worth checking is AgentRouter, which also supports Claude Code, Cline, Cursor, and similar tools. It currently offers a $150 referral boost and high-frequency quota refill campaign: [AgentRouter signup](https://agentrouter.org/register?aff=Vnpm)
 
 ## What FreeModel is
 
@@ -246,7 +248,7 @@ If you plan to rely on FreeModel long term, also track concurrency, model availa
 
 FreeModel's current appeal is the combination of signup credit, Claude API compatibility, OpenAI-compatible endpoints, and access to models such as `gpt-5.5` and Claude Fable 5.
 
-Registration link: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+Registration link: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
 
 Use the signup credit for a few real tasks first. If Claude Code, Cline, Cursor, ChatBox, or your SDK project works well, then consider topping up credits or upgrading the plan.
 
@@ -300,7 +302,7 @@ The provided configuration uses `gpt-5.5`, but model availability and pricing ca
 
 FreeModel is interesting because it covers both Claude-style and OpenAI-compatible workflows. That makes it useful for people who move between Claude Code, Cline, Cursor, ChatBox, and SDK projects.
 
-If you want to try it, start here: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+If you want to try it, start here: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
 
 Register, claim the signup credit, run real tasks, then decide whether you need more credits or a higher rate-limit tier.
 
