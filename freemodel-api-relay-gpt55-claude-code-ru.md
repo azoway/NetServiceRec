@@ -4,7 +4,9 @@ FreeModel стоит рассмотреть, если вам нужен один
 
 Главная идея простая: зарегистрироваться, получить стартовый баланс, создать API key и проверить сервис на своих задачах до покупки более дорогого тарифа.
 
-Ссылка для регистрации: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+Ссылка для регистрации: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
+
+Ещё один некоммерческий AI API-шлюз, заслуживающий внимания — AgentRouter, который также поддерживает Claude Code, Cline, Cursor и аналогичные инструменты. Сейчас там действует акция: реферальный буст $150 и частое пополнение квоты: [Регистрация в AgentRouter](https://agentrouter.org/register?aff=Vnpm)
 
 ## Что такое FreeModel
 
@@ -246,7 +248,7 @@ FreeModel хуже подходит, если вы:
 
 Сейчас FreeModel интересен сочетанием signup credit, Claude API compatibility, OpenAI-compatible endpoints и моделей вроде `gpt-5.5` и Claude Fable 5.
 
-Ссылка для регистрации: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+Ссылка для регистрации: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
 
 Сначала используйте бонус на несколько реальных задач. Если Claude Code, Cline, Cursor, ChatBox или ваш SDK-проект работает нормально, тогда уже решайте, нужно ли пополнять credits или повышать plan.
 
@@ -300,7 +302,7 @@ FreeModel хуже подходит, если вы:
 
 FreeModel интересен тем, что закрывает сразу Claude-style и OpenAI-compatible workflows. Это удобно для тех, кто постоянно переключается между Claude Code, Cline, Cursor, ChatBox и SDK-проектами.
 
-Если хотите попробовать, начните здесь: [FreeModel signup](https://freemodel.dev/invite/FRE-cb3115a9)
+Если хотите попробовать, начните здесь: [FreeModel signup](https://agentrouter.org/register?aff=Vnpm)
 
 Зарегистрируйтесь, получите стартовый баланс, прогоните реальные задачи и только потом решайте, нужны ли дополнительные credits или более высокий rate-limit tier.
 

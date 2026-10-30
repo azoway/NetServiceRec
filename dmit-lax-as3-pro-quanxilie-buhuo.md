@@ -84,11 +84,11 @@ Pro 入口可以从官网选择 Los Angeles、Premium Network、AS3 generation�
 
 Eyeball 可以直接看洛杉矶 AS3 EB 购物车筛选页。
 
-[查看 LAX.AS3.EB 库存](https://www.dmit.io/cart.php?region=los-angeles&network=eyeball&generation=as3)
+[查看 LAX.AS3.EB 库存](https://www.dmit.io/cart.php?aff=11524&region=los-angeles&network=eyeball&generation=as3)
 
 Tier 1 可以直接看洛杉矶 AS3 T1 购物车筛选页。
 
-[查看 LAX.AS3.T1 库存](https://www.dmit.io/cart.php?region=los-angeles&network=tier-1&generation=as3)
+[查看 LAX.AS3.T1 库存](https://www.dmit.io/cart.php?aff=11524&region=los-angeles&network=tier-1&generation=as3)
 
 如果是第一次买 DMIT，建议先月付试线路。Pro 看国内体验，EB 看流量和实际回程，T1 看国际访问和业务吞吐。稳定后再决定是否长期持有。
 
