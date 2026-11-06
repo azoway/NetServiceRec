@@ -140,7 +140,7 @@
 
 ---
 
-# 2025 Global SMS Activation Platform Guide (English) {#english-guide}
+## 2025 Global SMS Activation Platform Guide (English) {#english-guide}
 
 > Updated for 2025: Professional SMS verification service covering 200+ countries with comprehensive payment options and reliable service 🌍
 

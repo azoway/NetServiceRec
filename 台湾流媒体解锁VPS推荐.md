@@ -130,7 +130,7 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 
 ---
 
-# Taiwan VPS Guide 2025 (English)
+## Taiwan VPS Guide 2025 (English)
 
 > Professional Taiwan VPS service supporting Netflix, Disney+, and ChatGPT unlocking 🎬
 

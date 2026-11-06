@@ -12,7 +12,7 @@
 > **阿里云广州 G 口（前置） → AKCDN IX 线路 → 亚太 VPS（落地）**  
 > 延迟稳、带宽大、抖动低，适合对网络质量要求高的玩家
 
-# 🧩 一、什么是 IX 线路？
+## 🧩 一、什么是 IX 线路？
 
 **IX（Internet Exchange，互联网交换中心）线路**  
 是运营商在 IX 交换中心直接互联的高速网络，路由更短、延迟更低。
@@ -34,7 +34,7 @@
 
 ***
 
-# 🏗 二、整体架构
+## 🏗 二、整体架构
 
     本地客户端
        ↓
@@ -52,7 +52,7 @@
 
 ***
 
-# 🧰 三、准备工作
+## 🧰 三、准备工作
 
 ## 1) 注册 AKCDN（IX 中转核心）
 
@@ -94,7 +94,7 @@
 
 ***
 
-# 💰 四、AKCDN 套餐选择
+## 💰 四、AKCDN 套餐选择
 
 👉 推荐入口：<https://cdn.akile.ai/?ref=48521618>
 
@@ -109,7 +109,7 @@
 
 ***
 
-# 🛠 五、搭建思路
+## 🛠 五、搭建思路
 
 > ⚠️ 以下仅介绍网络架构与配置流程，不包含任何违法用途。请务必遵守当地法律法规 & 服务商 ToS。
 
@@ -164,7 +164,7 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/refs/heads/main/n
 
 ***
 
-# 🖥 六、如何在本地使用？
+## 🖥 六、如何在本地使用？
 
 准备：
 
@@ -189,7 +189,7 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/refs/heads/main/n
 
 ***
 
-# 📉 七、成本测算
+## 📉 七、成本测算
 
 | 项目        | 费用           |
 | --------- | ------------ |
@@ -202,7 +202,7 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/refs/heads/main/n
 
 ***
 
-# ⚠️ 八、注意事项
+## ⚠️ 八、注意事项
 
 1.  **遵守法律法规**
 2.  **遵守服务商 ToS**（阿里云、AKCDN、VPS）
@@ -210,7 +210,7 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/refs/heads/main/n
 
 ***
 
-# ✅ 九、总结
+## ✅ 九、总结
 
 通过：
 

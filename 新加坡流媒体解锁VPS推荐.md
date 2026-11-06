@@ -104,7 +104,7 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 
 ---
 
-# Singapore VPS Guide 2025 (English)
+## Singapore VPS Guide 2025 (English)
 
 > Professional Singapore VPS service with streaming media unblocking capabilities 🌟
 

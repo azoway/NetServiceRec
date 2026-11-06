@@ -62,7 +62,7 @@
 
 ---
 
-# 2025 SMS Activation Platform Guide (English)
+## 2025 SMS Activation Platform Guide (English)
 
 > Professional SMS verification code service supporting multiple countries and regions 📱
 

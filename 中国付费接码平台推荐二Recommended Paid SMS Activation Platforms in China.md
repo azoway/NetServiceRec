@@ -69,7 +69,7 @@
 
 ---
 
-# 2025 Stable SMS Platform Guide (English)
+## 2025 Stable SMS Platform Guide (English)
 
 > Global SMS verification code service, supporting TikTok and mainstream apps registration 🌏
 
