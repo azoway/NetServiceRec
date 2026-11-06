@@ -3,96 +3,59 @@ name: Sync Markdown to Issues
 on:
   push:
     paths:
-      - '**/*.md'  # 监听所有 Markdown 文件变化
+      - '**/*.md'
     branches:
-      - main  # 只在 main 分支触发
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: sync-markdown-issues
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  issues: write
 
 jobs:
   sync_issue:
     runs-on: ubuntu-latest
 
     steps:
-      # 🚀 拉取完整代码历史
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-          fetch-depth: 0  # 关键：拉取完整历史，避免 SHA 缺失问题
+          fetch-depth: 0
 
-      # 🎯 安装 GitHub CLI
-      - name: Install GitHub CLI
+      - name: Collect changed markdown files
+        shell: bash
         run: |
-          sudo apt-get update
-          sudo apt-get install -y gh
+          current_sha="${{ github.sha }}"
+          before_sha="${{ github.event.before }}"
 
-      # 🔍 检测 Markdown 文件内容变化
-      - name: Get changed Markdown files (with content diff check)
-        id: changed-files
-        run: |
-          # 获取当前 SHA
-          current_sha=${{ github.sha }}
-          before_sha=${{ github.event.before }}
-
-          # 🎯 处理首次提交、新分支等特殊情况
-          if [[ "$before_sha" == "0000000000000000000000000000000000000000" || -z "$before_sha" ]]; then
-            # 如果 before_sha 为空，说明是新分支或首次提交，使用上一次提交比较
-            before_sha=$(git rev-parse HEAD~1)
+          if [[ -z "$before_sha" || "$before_sha" == "0000000000000000000000000000000000000000" ]]; then
+            before_sha=$(git rev-parse HEAD~1 2>/dev/null || echo "")
           fi
 
-          # 🔥 检查所有内容有变化的 .md 文件
-          changed_files=$(git diff --diff-filter=AM --name-only "$before_sha" "$current_sha" | grep '.md' || true)
+          : > added_modified.txt
+          : > deleted.txt
 
-          # 输出变更的文件
-          echo "Detected changed files: $changed_files"
-          
-          # 将文件列表保存到临时文件
-          echo "$changed_files" > changed_files.txt
-          echo "changed_files=@changed_files.txt" >> $GITHUB_ENV
-        shell: bash
+          if [[ -n "$before_sha" ]] && git cat-file -e "$before_sha^{commit}" 2>/dev/null; then
+            git diff --diff-filter=AM --name-only "$before_sha" "$current_sha" \
+              | grep -E '\.md$' | grep -v '^README\.md$' > added_modified.txt || true
+            git diff --diff-filter=D --name-only "$before_sha" "$current_sha" \
+              | grep -E '\.md$' | grep -v '^README\.md$' > deleted.txt || true
+          else
+            find . -name '*.md' -not -path './.git/*' -not -name 'README.md' \
+              | sed 's|^\./||' | sort > added_modified.txt
+          fi
 
-      # ⚡️ 创建或更新 Issue
-      - name: Create or Update Issues for Markdown files
+          echo "== 新增或修改 =="
+          cat added_modified.txt
+          echo "== 删除 =="
+          cat deleted.txt
+
+      - name: Sync issues
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # 如果没有变更的 Markdown 文件就退出
-          if [[ ! -f changed_files.txt ]] || [[ ! -s changed_files.txt ]]; then
-            echo "🎉 No markdown file content changed. Exiting."
-            exit 0
-          fi
-
-          # 处理每个文件
-          while IFS= read -r file; do
-            # 跳过空行
-            [[ -z "$file" ]] && continue
-            
-            # 移除引号并处理转义字符
-            file_path=$(printf '%b' "${file//\"/}")
-            echo "Processing file: $file_path"
-
-            # 检查文件是否存在
-            if [[ ! -f "$file_path" ]]; then
-              echo "❌ 文件不存在: $file_path"
-              echo "原始文件路径: $file"
-              continue
-            fi
-
-            # 提取文件名作为 Issue 标题
-            title="$(basename "$file_path")"
-            content=$(cat "$file_path")
-
-            # 🕵️ 检查是否已有同名 Issue
-            issue_number=$(gh issue list --state all --search "$title" --json "number" | jq -r '.[0].number // ""')
-
-            if [[ -n "$issue_number" ]]; then
-              # ✏️ 如果 Issue 已存在，更新内容
-              echo "🔄 Issue #$issue_number already exists. Updating..."
-              gh issue edit "$issue_number" --body "$content"
-              echo "✅ 已更新 Issue #$issue_number"
-            else
-              # ✨ 创建新的 Issue
-              echo "🆕 Creating new issue: $title"
-              gh issue create --title "$title" --body "$content"
-              echo "✨ 创建了新的 Issue: $title"
-            fi
-          done < changed_files.txt
-        shell: bash
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: python3 .github/scripts/sync_issues.py
