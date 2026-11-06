@@ -145,3 +145,9 @@ A：可以试用，但公测期可能遇到 BUG、异常或体验调整。正式
 - 日本 VPS 的线路体验与访问地区、运营商、时间段关系很大，购买后请结合自己的网络环境实测。
 
 *最后更新：2026 年 6 月*
+
+## 相关阅读
+
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)
+- [AkileCloud 日本 VPS 推荐：IIJ 原生静态 IP、JPIIJ-Y-Lite 年付入门（流媒体/DNS 解锁友好）| 2026](https://obvps.com/posts/akilecloud日本iij原生静态ip-jpiij-y-lite推荐)

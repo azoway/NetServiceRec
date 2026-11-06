@@ -107,3 +107,9 @@ SGBase 为新加坡机房线路，面向东南亚访问优化更明显，兼顾�
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud 日本 VPS 推荐：IIJ 原生静态 IP、JPIIJ-Y-Lite 年付入门（流媒体/DNS 解锁友好）| 2026](https://obvps.com/posts/akilecloud日本iij原生静态ip-jpiij-y-lite推荐)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)

@@ -120,3 +120,9 @@ socks://akilecloud:akilecloud@45.207.158.220:588
 [访问AkileCloud官网](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 [访问AkileCloud商店](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+
+## 相关阅读
+
+- [TierHive NAT VPS 推荐：新加坡最便宜的服务器 + Alpine + GOST SOCKS5](https://obvps.com/posts/tierhive-vps推荐与alpine-gost搭建)
+- [Akile CDN 服务推荐：AKCDN 流量转发套餐怎么选](https://obvps.com/posts/cdn中转服务推荐akile)
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)

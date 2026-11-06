@@ -47,3 +47,9 @@ apt install wireguard resolvconf -y
 		]
 	}
 ```
+
+## 相关阅读
+
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)

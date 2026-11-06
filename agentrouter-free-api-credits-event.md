@@ -160,3 +160,9 @@ AgentRouter 的卖点不是单一模型，而是把 30 多个模型聚合到一�
 建议注册后先创建 API Key，接进你常用的 AI 编程工具里跑真实任务。保持活跃使用，活动期间额度会持续跟进。
 
 本文基于 2026-08-19 AgentRouter 公开信息和社区公告整理。额度、模型列表、接口能力、活动规则和截止时间请以 AgentRouter 官网实时页面和社区公告为准。
+
+## 相关阅读
+
+- [AgentRouter Free API Credits: $150 Referral Boost + Quota Refill](https://obvps.com/posts/agentrouter-free-api-credits-event-en)
+- [AgentRouter бесплатные API-кредиты: бонус $150 и пополнение квоты](https://obvps.com/posts/agentrouter-free-api-credits-event-ru)
+- [local.ai：独立本地 AI 基准测试平台 + 推荐活动赢 DGX Spark 和 Mac Mini](https://obvps.com/posts/local-ai-benchmark-referral-dgx-spark-mac-mini)

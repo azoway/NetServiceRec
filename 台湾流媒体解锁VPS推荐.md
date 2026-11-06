@@ -147,3 +147,9 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [acck.io 台湾 VPS 推荐：TWLite 系列（区域出口 + DNS 解锁台区流媒体）选购指南 | 2026](https://obvps.com/posts/acck-io台湾vps-twlite系列推荐)
+- [流媒体解锁VPS推荐频道介绍 | @streaming_vps](https://obvps.com/posts/流媒体解锁vps推荐频道介绍)
+- [台湾桃园VPS推荐 - HINET动态地址 | 2025年最新配置指南](https://obvps.com/posts/桃园hinet动态地址vps推荐)

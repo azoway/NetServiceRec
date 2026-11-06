@@ -18,3 +18,9 @@ Virmach官网：[Cheap Windows VPS & Linux VPS - VirMach.com | The Best & Cheape
  - `LETAUGUST2018` 仅特定KVM促销套餐可用
  - `E3ARBOR10` 服务器套餐可用，直减10美元
  - `60FEB2017` 特定套餐可用
+
+## 相关阅读
+
+- [Virmach VPS优惠码最新整理](https://obvps.com/posts/virmach最新活动可用优惠码汇总)
+- [Complete Guide to Virmach VPS Coupon Codes March 2025 Update](https://obvps.com/posts/virmach-coupon-codes-and-deals)
+- [GreenCloudVPS 2026 独立日促销：绿云 24 小时限时活动，三年付 VPS 与 4TB 存储套餐整理](https://obvps.com/posts/greencloudvps-2026-independence-day-sale)

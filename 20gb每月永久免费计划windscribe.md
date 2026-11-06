@@ -16,3 +16,7 @@ Windscribe新增的Pro计划最低2$/月，包含一个地区每月无限流量�
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [🚀 Windscribe 免费账户 - 获取终身每月20GB流量！](https://obvps.com/posts/windscribe-free-account)

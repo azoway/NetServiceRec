@@ -76,3 +76,9 @@
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud美国VPS详细测评：三网4837优化+原生IP+流媒体解锁全方位分析](https://obvps.com/posts/美国vps推荐akilecloud三网4837优化线路原生ip流媒体解锁)
+- [AkileCloud 越南胡志明 VNPT NAT VPS 上新：年付 ¥158.88，动态 IPv4 + 独立 IPv6](https://obvps.com/posts/akilecloud-vnpt-nat-starter-vietnam-vps)
+- [Akile Italy VPS Server - Unlimited Traffic Plans Guide](https://obvps.com/posts/akile-italy-unlimited-vps)

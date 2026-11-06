@@ -117,3 +117,9 @@ A：适合希望“开箱即用、少运维、跨设备看剧”的用户；如�
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [Emby 服务商推荐：UHD Service 四档套餐怎么选](https://obvps.com/posts/emby服务商推荐-uhd-service套餐怎么选)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX PRO-ONE 月付 ¥16.99，三网双程优化 CN2 GIA，下单送 We Emby 会员](https://obvps.com/posts/acck-io美国洛杉矶vps-lax-pro-one三网优化emby联动推荐)
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)

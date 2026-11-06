@@ -157,3 +157,9 @@ SMS activation is widely used for privacy and legitimate testing. You must compl
 ## Disclaimer
 
 Pricing, inventory, and policies may change without notice. Confirm details on the official site before purchase. This article is for informational purposes only—use responsibly and in compliance with applicable terms and laws.
+
+## 相关阅读
+
+- [HeroSMS обзор: приём SMS для OpenAI, ChatGPT и AI-сервисов](https://obvps.com/posts/herosms-sms)
+- [HeroSMS 接码平台：AI接码与 AI注册完整指南（2026）](https://obvps.com/posts/herosms接码平台推荐)
+- [2025年最新中国付费短信接码平台推荐 | SMS Activation Platform Guide 2025](https://obvps.com/posts/中国付费接码平台推荐一recommended-paid-sms-activation-platforms-in-china)

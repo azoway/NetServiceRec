@@ -147,3 +147,9 @@ OpenModel 这次活动适合用来低成本测试多模型网关：`deepseek-v4-
 准备试用的话，可以从这里进入：[OpenModel 官网入口](https://www.openmodel.ai?ref=B38o5xln)。
 
 本文基于 2026-06-22 OpenModel 官网和活动页公开信息整理，模型列表、折扣、免费规则、额度和价格请以官网实时页面为准。
+
+## 相关阅读
+
+- [local.ai：独立本地 AI 基准测试平台 + 推荐活动赢 DGX Spark 和 Mac Mini](https://obvps.com/posts/local-ai-benchmark-referral-dgx-spark-mac-mini)
+- [Релей API моделей AkileCloud: GPT, Claude, DeepSeek и GLM](https://obvps.com/posts/大模型中转站推荐akilecloud-ru)
+- [AkileCloud API Relay Review: GPT, Claude, DeepSeek, GLM in One Key](https://obvps.com/posts/大模型中转站推荐akilecloud-en)

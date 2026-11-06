@@ -40,3 +40,9 @@ Softlayer, Singapore, SG        119.81.28.170           3.32MB/s
 Softlayer, HongKong, CN         119.81.130.170          2.75MB/s
 ----------------------------------------------------------------------
 ```
+
+## 相关阅读
+
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [AkileCloud 越南胡志明 VNPT NAT VPS 上新：年付 ¥158.88，动态 IPv4 + 独立 IPv6](https://obvps.com/posts/akilecloud-vnpt-nat-starter-vietnam-vps)

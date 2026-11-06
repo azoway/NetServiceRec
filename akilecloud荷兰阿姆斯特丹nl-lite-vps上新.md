@@ -32,3 +32,9 @@
 ## 下单链接
 
 - [前往 AkileCloud 购买 NL-Lite（阿姆斯特丹）](https://akile.ai/shop/server?type=traffic&areaId=15&nodeId=40&planId=1041&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+
+## 相关阅读
+
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [Akile CDN 服务推荐：AKCDN 流量转发套餐怎么选](https://obvps.com/posts/cdn中转服务推荐akile)
+- [AkileCloud SOCKS5代理服务推荐](https://obvps.com/posts/akilecloud-socks5代理服务推荐)

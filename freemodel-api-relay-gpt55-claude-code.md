@@ -305,3 +305,9 @@ FreeModel 的卖点不是单一模型，而是接入面比较宽。Claude Code�
 如果你还没用过这类平台，建议先通过 [FreeModel 注册入口](https://agentrouter.org/register?aff=Vnpm) 注册，绑定手机号领取 10 美元余额，然后按自己的真实场景测试接口、模型、速度、限速和扣费。确认稳定后，再考虑充值余额或升级套餐。
 
 本文基于 2026-06-17 用户提供信息和 FreeModel 公开入口整理。余额、模型、接口能力、套餐价格、汇率和活动规则请以 FreeModel 官网实时页面为准。
+
+## 相关阅读
+
+- [FreeModel: Claude Fable 5, gpt-5.5, Claude Code и OpenAI-compatible API](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code-ru)
+- [FreeModel Review: Claude Fable 5, GPT-5.5, Claude Code API](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code-en)
+- [FreeModel limited offer: use gpt-5.6-sol free in WorkBuddy](https://obvps.com/posts/freemodel-workbuddy-gpt56-sol-free-event-en)

@@ -1,4 +1,4 @@
-# AI Model API Relay Recommendation: AkileCloud — GPT, Claude, DeepSeek, and GLM via One API Key
+# AkileCloud API Relay Review: GPT, Claude, DeepSeek, GLM in One Key
 
 AkileCloud runs an AI model API relay alongside its VPS business. A single API Key gives you access to models from OpenAI, Anthropic, DeepSeek, and GLM (Zhipu). The relay is compatible with the OpenAI API format, so tools like Cursor, Claude Code, ChatBox, and the OpenAI SDK only need a base URL change to connect.
 

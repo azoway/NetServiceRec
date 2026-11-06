@@ -80,3 +80,9 @@ Virmach成立于2014年，是一家专注于提供高性价比VPS服务的知名
 - 部分优惠码可能会定期更新
 - 建议关注官方Twitter获取最新优惠信息
 - 支持支付宝、信用卡等多种支付方式
+
+## 相关阅读
+
+- [Complete Guide to Virmach VPS Coupon Codes March 2025 Update](https://obvps.com/posts/virmach-coupon-codes-and-deals)
+- [virmach最新活动可用优惠码汇总-持续更新](https://obvps.com/posts/virmachcodes)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

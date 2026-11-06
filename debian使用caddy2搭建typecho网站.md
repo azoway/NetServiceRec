@@ -50,3 +50,9 @@
 #### TIPS:
 * 如需要使用nftables作为防火墙，只允许ssh+http+https三个端口以及其它一些设置:`bash <(curl -s https://raw.githubusercontent.com/azoway/across/main/nftables/nft.sh)`
 * cloudflare-api-key非全局值，需单独创建一个值且具有如下二条权限:`Zone|Zone|Read && Zone|DNS|Edit`
+
+## 相关阅读
+
+- [萌咖脚本VPS一键重装系统教程 2025版 (Debian/Ubuntu/CentOS 全系统支持)](https://obvps.com/posts/使用萌咔脚本更换vps系统)
+- [vps上使用caddy layer4四层流量转发](https://obvps.com/posts/vps上使用caddy-layer4四层流量转发)
+- [debian安装配置nftables端口转发](https://obvps.com/posts/debian安装配置nftables端口转发)

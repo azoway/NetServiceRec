@@ -119,3 +119,9 @@ echo "nameserver 154.83.83.90" > /etc/resolv.conf
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [德国BGP无限流量VPS服务器推荐](https://obvps.com/posts/德国无限流量vps推荐)
+- [AkileCloud 德国 9929 VPS 上新：DE9929-Lite 月付 ¥19.90，300M 带宽入门款](https://obvps.com/posts/akilecloud德国9929-de9929-lite推荐)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

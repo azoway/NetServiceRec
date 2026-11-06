@@ -93,3 +93,7 @@ Current Example User Info:
    - Select a geographically closer DNS server
    - Check local network conditions
    - Try alternative regional DNS servers
+
+## 相关阅读
+
+- [AKDNS - 免费全球流媒体解锁DNS服务](https://obvps.com/posts/akdns免费的流媒体解锁服务)

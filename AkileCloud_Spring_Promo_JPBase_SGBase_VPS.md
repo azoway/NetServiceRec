@@ -51,3 +51,9 @@ They are suitable for users needing Japan/Singapore network exits, streaming acc
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [Akile CDN 服务推荐：AKCDN 流量转发套餐怎么选](https://obvps.com/posts/cdn中转服务推荐akile)
+- [AkileCloud SOCKS5代理服务推荐](https://obvps.com/posts/akilecloud-socks5代理服务推荐)

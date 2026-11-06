@@ -59,3 +59,9 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/main/nftables/nft
 
 ## 结语
 通过以上配置，您的服务器将只接受来自Cloudflare的Web流量，显著提升安全性。建议定期检查和更新规则，确保持续的安全保护。
+
+## 相关阅读
+
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)
+- [德国BGP服务器VPS推荐 - 高速稳定德国服务器 | 2025年最新配置指南](https://obvps.com/posts/德国bgp服务器vps推荐)
+- [debian安装配置nftables端口转发](https://obvps.com/posts/debian安装配置nftables端口转发)

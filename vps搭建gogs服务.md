@@ -30,3 +30,9 @@ docker run -d --restart always --name=gogs -p 22:22 -p 127.0.0.1:10880:3000 -v /
 ssh-keygen
 git clone git@ex.com:username/examples.git
 ```
+
+## 相关阅读
+
+- [VPS搭建聚合图床程序收集和推荐](https://obvps.com/posts/vps搭建聚合图床程序收集和推荐)
+- [VPS搭建OneDrive网盘程序推荐](https://obvps.com/posts/vps搭建onedrive网盘程序推荐)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

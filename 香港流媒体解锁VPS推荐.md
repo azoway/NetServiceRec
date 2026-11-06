@@ -169,3 +169,9 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
+- [香港高级竞技场VPS服务器推荐](https://obvps.com/posts/香港高级竞技场vps推荐)
+- [2025香港原生IP VPS推荐指南 | Hong Kong VPS Guide 2025](https://obvps.com/posts/香港原生ipvps推荐大陆直连电信联通cug移动cmi双程优化完美解锁流媒体)

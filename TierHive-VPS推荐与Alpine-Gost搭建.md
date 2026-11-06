@@ -176,3 +176,9 @@ rc-service gost status
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud SOCKS5代理服务推荐](https://obvps.com/posts/akilecloud-socks5代理服务推荐)
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [2025新加坡流媒体解锁VPS推荐指南 | Singapore VPS Guide 2025](https://obvps.com/posts/新加坡流媒体解锁vps推荐)

@@ -88,3 +88,9 @@
 - Test SMS reception before purchase
 - Monitor platform announcements
 - Choose appropriate number types for your needs
+
+## 相关阅读
+
+- [2025年稳定可靠的中国付费接码平台推荐 | Stable SMS Platform Guide 2025](https://obvps.com/posts/中国付费接码平台推荐二recommended-paid-sms-activation-platforms-in-china)
+- [中国接码平台推荐：白鲸，海外华人专用的短信验证码平台](https://obvps.com/posts/中国接码平台推荐白鲸)
+- [手机验证码chatgpt注册接码](https://obvps.com/posts/手机验证码chatgp注册接码)

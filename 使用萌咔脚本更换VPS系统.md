@@ -109,3 +109,9 @@ wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com
 ## 更新日志
 
 - 2025
+
+## 相关阅读
+
+- [解决KVM构架的NAT型VPS在Debian系统下IPV6连接问题](https://obvps.com/posts/解决kvm构架的nat型vps在debian系统下ipv6连接问题)
+- [oracle甲骨文免费vps重装系统](https://obvps.com/posts/oracle甲骨文免费vps重装系统)
+- [VPS常用一键测试脚本工具汇总集合](https://obvps.com/posts/vps常用一键测试脚本工具汇总集合)

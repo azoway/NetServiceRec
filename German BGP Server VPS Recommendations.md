@@ -122,3 +122,9 @@ echo "nameserver 154.83.83.90" > /etc/resolv.conf
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [萌咖脚本VPS一键重装系统教程 2025版 (Debian/Ubuntu/CentOS 全系统支持)](https://obvps.com/posts/使用萌咔脚本更换vps系统)

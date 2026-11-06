@@ -51,3 +51,9 @@ A：按套餐说明，超出后进入 **共享 10Mbps** 限速；需要恢复原
 - 本文为信息整理与使用场景分享，请以自身需求与实测结果为准。
 
 *最后更新：2026 年 5 月*
+
+## 相关阅读
+
+- [2025台湾流媒体解锁VPS推荐指南 | Taiwan VPS Guide 2025](https://obvps.com/posts/台湾流媒体解锁vps推荐)
+- [流媒体解锁VPS推荐频道介绍 | @streaming_vps](https://obvps.com/posts/流媒体解锁vps推荐频道介绍)
+- [台湾桃园VPS推荐 - HINET动态地址 | 2025年最新配置指南](https://obvps.com/posts/桃园hinet动态地址vps推荐)

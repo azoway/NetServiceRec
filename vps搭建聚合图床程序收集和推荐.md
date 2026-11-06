@@ -24,3 +24,9 @@
 
 #### 超简图床
 地址：`https://github.com/szvone/imgApi`
+
+## 相关阅读
+
+- [VPS搭建OneDrive网盘程序推荐](https://obvps.com/posts/vps搭建onedrive网盘程序推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX9929-MINI 月付 19.99 元，1000G 流量入门套餐](https://obvps.com/posts/acck-io美国洛杉矶vps-lax9929-mini推荐)
+- [香港高级竞技场VPS服务器推荐](https://obvps.com/posts/香港高级竞技场vps推荐)

@@ -104,3 +104,9 @@
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [香港高级竞技场VPS服务器推荐](https://obvps.com/posts/香港高级竞技场vps推荐)
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)
+- [acck.io 香港 VPS 推荐：NHK 国际互联与 HKCM 回国优化（CMI/4837/CN2）怎么选 | 2026](https://obvps.com/posts/acck-io香港vps-nhk与hkcm线路推荐)

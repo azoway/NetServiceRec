@@ -1,4 +1,4 @@
-# Рекомендация релея API моделей: AkileCloud — GPT, Claude, DeepSeek и GLM через один API-ключ
+# Релей API моделей AkileCloud: GPT, Claude, DeepSeek и GLM
 
 AkileCloud, помимо VPS-хостинга, предоставляет релей API для моделей искусственного интеллекта. Один API-ключ даёт доступ к моделям OpenAI, Anthropic, DeepSeek и GLM (Zhipu). Релей совместим с форматом API OpenAI, поэтому такие инструменты, как Cursor, Claude Code, ChatBox и OpenAI SDK, подключаются простой заменой base URL.
 

@@ -35,3 +35,9 @@
 - 建议开启频道通知，第一时间获取限时抢购和特价活动信息
 - 关注频道置顶消息，获取最新推荐和活动汇总
 - 有问题可在频道留言或私信频道主交流
+
+## 相关阅读
+
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)

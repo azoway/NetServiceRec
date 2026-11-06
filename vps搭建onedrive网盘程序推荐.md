@@ -23,3 +23,9 @@ VPS可用的搭建微软OneDrive开源网盘程序工具收集与汇总：
 #### oneindex-h
 > 添加了分页和看图功能
 > https://github.com/hang666/oneindex-h
+
+## 相关阅读
+
+- [VPS搭建聚合图床程序收集和推荐](https://obvps.com/posts/vps搭建聚合图床程序收集和推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX9929-MINI 月付 19.99 元，1000G 流量入门套餐](https://obvps.com/posts/acck-io美国洛杉矶vps-lax9929-mini推荐)
+- [香港高级竞技场VPS服务器推荐](https://obvps.com/posts/香港高级竞技场vps推荐)

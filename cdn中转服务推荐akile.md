@@ -138,3 +138,9 @@ AKCDN 能帮你改善入口和中转路径，但后端服务器如果带宽很�
 ## 信息整理说明
 
 本文基于 2026-06-02 AKCDN 官方首页、公开套餐接口和控制台截图信息整理。价格、库存、节点在线状态、套餐限制和可用协议可能随时调整，请以 AKCDN 官网与控制台实时页面为准。
+
+## 相关阅读
+
+- [AKCDN SH-HK 沪港 IX CCN 专线实测：免前置机，10 元起可用（5 元小包仍不可用）](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide)
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [AkileCloud 日本 VPS 推荐：IIJ 原生静态 IP、JPIIJ-Y-Lite 年付入门（流媒体/DNS 解锁友好）| 2026](https://obvps.com/posts/akilecloud日本iij原生静态ip-jpiij-y-lite推荐)

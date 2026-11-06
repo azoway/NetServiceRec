@@ -238,3 +238,9 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/refs/heads/main/n
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AKCDN SH-HK 沪港 IX CCN 专线实测：免前置机，10 元起可用（5 元小包仍不可用）](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide)
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)

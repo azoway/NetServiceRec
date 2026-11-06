@@ -10,3 +10,9 @@
 如果你需要此类VPS，可以尝试OLVPS的海外VPS，大部分国外线路都能完美解锁：[OLVPS](https://obvps.com/2019/04/15/t667it.html)  
   
 相关文章： https://chodomatte.github.io/
+
+## 相关阅读
+
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)
+- [vps配置cloudflare warp wireguard 解锁 netflix 解除 google 验证码](https://obvps.com/posts/vps配置cloudflare-warp-wireguard-解锁-netflix-解除-google-验证码)

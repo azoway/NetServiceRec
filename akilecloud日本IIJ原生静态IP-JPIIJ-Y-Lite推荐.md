@@ -69,3 +69,9 @@ A：不能百分百承诺。原生 IP 只是重要因素之一，客户端、DNS
 - 本文为信息整理与使用场景分享，请以自身需求与实测结果为准。
 
 *最后更新：2026年5月*
+
+## 相关阅读
+
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选](https://obvps.com/posts/日本流媒体解锁vps推荐)

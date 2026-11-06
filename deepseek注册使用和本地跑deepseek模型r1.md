@@ -58,3 +58,7 @@
 - **模型大小**：DeepSeek-R1 模型有不同的参数规模。以 7B 参数的模型为例，模型大小约为 4.7GB。根据您的硬件配置，选择适合的模型版本。
 
 实测已经使用 MAC M3 本地成功部署并运行 DeepSeek r1 模型7b，实现离线环境下的 AI 模型推理，体验还不错
+
+## 相关阅读
+
+- [DeepSeek Registration and Local Model Deployment Guide](https://obvps.com/posts/deepseek-registration-and-local-deployment-r1)

@@ -51,3 +51,9 @@ iface eth0 inet6 static
 主要即是替换`iface eth0 inet6 static`配置中`gateway`的原本值为具体命令。
 > `gateway 2406:4380:F::1 >> post-up .....`  
 具体的各项值得按照VPS分配到的地址来配置，上例中的值也是OB随机设置的，在网络上不要随意暴露自己的VPS网络地址，能有效的减少VPS受到各种攻击的可能性。
+
+## 相关阅读
+
+- [萌咖脚本VPS一键重装系统教程 2025版 (Debian/Ubuntu/CentOS 全系统支持)](https://obvps.com/posts/使用萌咔脚本更换vps系统)
+- [Kuroit 英国 KVM VPS 闪购：西米德兰兹机房，年付 20 美元起，注意 10G 和 1G 端口差异](https://obvps.com/posts/kuroit英国kvmvps闪购10g网络)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)

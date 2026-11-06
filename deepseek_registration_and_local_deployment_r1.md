@@ -56,3 +56,7 @@ If you want to run the DeepSeek model locally, here are the detailed steps:
 - **Model Size**: DeepSeek-R1 model comes in different parameter sizes. For example, the 7B parameter model is approximately 4.7GB. Choose the appropriate model version based on your hardware configuration.
 
 Successfully tested and deployed DeepSeek r1 7b model locally on MAC M3, achieving AI model inference in an offline environment with good performance.
+
+## 相关阅读
+
+- [deepseek注册使用和本地跑deepseek模型r1](https://obvps.com/posts/deepseek注册使用和本地跑deepseek模型r1)

@@ -75,3 +75,9 @@ A：超出后会限速至10Mbps共享带宽，但不会完全中断服务。可�
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [AkileCloud 日本 VPS 推荐：IIJ 原生静态 IP、JPIIJ-Y-Lite 年付入门（流媒体/DNS 解锁友好）| 2026](https://obvps.com/posts/akilecloud日本iij原生静态ip-jpiij-y-lite推荐)
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)

@@ -35,3 +35,9 @@ chmod 755 /etc/akdns-auto.sh
 (crontab -l ; echo "*/5 * * * * /etc/akdns-auto.sh") | crontab -
 bash /etc/akdns-auto.sh
 ```
+
+## 相关阅读
+
+- [流媒体解锁服务之Emby体验推荐 - UHD Service超高清影音媒体库](https://obvps.com/posts/流媒体解锁服务之emby体验推荐)
+- [AKDNS - 免费全球流媒体解锁DNS服务](https://obvps.com/posts/akdns免费的流媒体解锁服务)
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)

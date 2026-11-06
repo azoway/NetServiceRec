@@ -85,3 +85,9 @@ Founded in 2014, Virmach has established itself as a leading provider of cost-ef
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [Virmach VPS优惠码最新整理](https://obvps.com/posts/virmach最新活动可用优惠码汇总)
+- [virmach最新活动可用优惠码汇总-持续更新](https://obvps.com/posts/virmachcodes)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

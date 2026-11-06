@@ -100,3 +100,9 @@
 - Unlimited SMS reception
 - No hidden charges
 - Regular platform updates
+
+## 相关阅读
+
+- [2025年最新中国付费短信接码平台推荐 | SMS Activation Platform Guide 2025](https://obvps.com/posts/中国付费接码平台推荐一recommended-paid-sms-activation-platforms-in-china)
+- [中国接码平台推荐：白鲸，海外华人专用的短信验证码平台](https://obvps.com/posts/中国接码平台推荐白鲸)
+- [【2025最新】国际短信接码平台推荐 | 全球接码平台测评与选购指南](https://obvps.com/posts/国际付费接码平台推荐recommended-international-paid-sms-activation-platforms)

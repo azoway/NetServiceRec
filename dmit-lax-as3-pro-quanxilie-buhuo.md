@@ -119,3 +119,9 @@ T1 不做 China Optimization，重点是普通国际、亚美和美国本土路�
 这次 DMIT LAX AS3 补货可以按三类需求看。中国大陆访问质量优先，选 Pro；想要更多流量并兼顾中国方向，选 EB；预算低、国际方向、需要更宽松流量，选 T1。AS3 平台不是最新硬件，但价格、库存和网络选择都更灵活，适合先买一台按实际线路表现决定是否长期持有。
 
 本文基于用户提供的套餐截图、DMIT 官方公开页面和购物车筛选页信息整理。价格、库存、计费周期、换 IP 规则、线路说明和最终可购买状态请以 DMIT 官网实时页面为准。
+
+## 相关阅读
+
+- [DMIT 洛杉矶 CN2 GIA / 9929 与日本东京 VPS推荐](https://obvps.com/posts/dmit美西日本中国大陆优化线路vps补货推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX9929-MINI 月付 19.99 元，1000G 流量入门套餐](https://obvps.com/posts/acck-io美国洛杉矶vps-lax9929-mini推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX PRO-MINI 三网优化线路，原生 IP + AMD EPYC 7452，月付 ¥54.99](https://obvps.com/posts/acck-io美国洛杉矶vps-lax-pro-mini三网优化推荐)

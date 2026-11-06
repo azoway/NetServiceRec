@@ -61,3 +61,9 @@
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [香港高级竞技场VPS服务器推荐](https://obvps.com/posts/香港高级竞技场vps推荐)
+- [2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)](https://obvps.com/posts/香港流媒体解锁vps推荐)
+- [2025香港原生IP VPS推荐指南 | Hong Kong VPS Guide 2025](https://obvps.com/posts/香港原生ipvps推荐大陆直连电信联通cug移动cmi双程优化完美解锁流媒体)

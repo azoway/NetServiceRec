@@ -70,3 +70,8 @@ This configuration significantly enhances your server's security by restricting 
 - Minimal performance impact
 - Automated rule updates available
 - Logging capabilities for security monitoring
+
+## 相关阅读
+
+- [debian安装配置nftables端口转发](https://obvps.com/posts/debian安装配置nftables端口转发)
+- [使用nftables配置VPS仅允许Cloudflare IP访问Web端口的完整指南](https://obvps.com/posts/vps服务器配置nftables仅允许cloudflare的ip访问web端口)

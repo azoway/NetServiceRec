@@ -237,3 +237,9 @@ Start with the smallest working chain: one mailbox, one YesCaptcha API key, one 
 After that works, add accounts slowly. Do not put pool size ahead of maintainability. The hard part is not creating the first few auth files. The hard part is understanding, a week later, why each account is working or broken.
 
 This article is based on public GitHub README material and YesCaptcha pricing notes checked on 2026-07-14. CLIProxyAPI, grok-build-auth, YesCaptcha and x.ai / Grok behavior may change. Check the live project documentation and service terms before running anything important.
+
+## 相关阅读
+
+- [Grok Token 号池怎么搭：CLIProxyAPI、grok-build-auth 和 YesCaptcha 的一条实用链路](https://obvps.com/posts/grok-token-pool-cliproxyapi-yescaptcha-guide)
+- [NVIDIA Build API Key 批量注册与管理：nvidia-register + YesCaptcha + somanyapikeys](https://obvps.com/posts/nvidia-build-apikey-register-somanyapikeys-yescaptcha)
+- [YesCaptcha 验证码识别平台：任务类型、真实成本和接入步骤](https://obvps.com/posts/yescaptcha-captcha-solver-price-guide)

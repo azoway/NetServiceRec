@@ -1,4 +1,4 @@
-# AgentRouter Free API Credits Campaign: $150 Referral Boost + High-Frequency Quota Refill
+# AgentRouter Free API Credits: $150 Referral Boost + Quota Refill
 
 AgentRouter is a non-profit AI API gateway that gives you one API key and one base URL to access 30+ models including Claude, GPT-5, DeepSeek, and GLM. Its mission is straightforward: provide free, sustainable API services for real developers. Resources are limited, so computing power is prioritized for active, legitimate use cases.
 
@@ -160,3 +160,9 @@ Registration link: [AgentRouter signup](https://agentrouter.org/register?aff=Vnp
 Register, create an API key, connect it to your usual AI coding tool, and run real tasks. Stay active, and your credits will keep up during the campaign.
 
 This article is based on AgentRouter public information and community announcements as of 2026-08-19. Credit amounts, model lists, API capabilities, campaign rules, and deadlines may change. Always verify on the AgentRouter website and community channels.
+
+## 相关阅读
+
+- [AgentRouter бесплатные API-кредиты: бонус $150 и пополнение квоты](https://obvps.com/posts/agentrouter-free-api-credits-event-ru)
+- [AgentRouter 免费 API 额度活动：邀请加码 $150 + 高频额度补给](https://obvps.com/posts/agentrouter-free-api-credits-event)
+- [Релей API моделей AkileCloud: GPT, Claude, DeepSeek и GLM](https://obvps.com/posts/大模型中转站推荐akilecloud-ru)

@@ -37,3 +37,9 @@ EOF
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [TierHive NAT VPS 推荐：新加坡最便宜的服务器 + Alpine + GOST SOCKS5](https://obvps.com/posts/tierhive-vps推荐与alpine-gost搭建)
+- [德国BGP服务器VPS推荐 - 高速稳定德国服务器 | 2025年最新配置指南](https://obvps.com/posts/德国bgp服务器vps推荐)
+- [使用nftables配置VPS仅允许Cloudflare IP访问Web端口的完整指南](https://obvps.com/posts/vps服务器配置nftables仅允许cloudflare的ip访问web端口)

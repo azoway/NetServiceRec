@@ -72,3 +72,9 @@ A: Speed will be limited to 10Mbps shared bandwidth, but service won't be comple
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
+- [vps配置cloudflare warp wireguard 解锁 netflix 解除 google 验证码](https://obvps.com/posts/vps配置cloudflare-warp-wireguard-解锁-netflix-解除-google-验证码)
+- [手机验证码chatgpt注册接码](https://obvps.com/posts/手机验证码chatgp注册接码)

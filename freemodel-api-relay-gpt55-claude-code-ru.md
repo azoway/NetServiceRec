@@ -307,3 +307,9 @@ FreeModel интересен тем, что закрывает сразу Claude
 Зарегистрируйтесь, получите стартовый баланс, прогоните реальные задачи и только потом решайте, нужны ли дополнительные credits или более высокий rate-limit tier.
 
 Статья основана на пользовательской информации о FreeModel и публичной точке входа FreeModel на 2026-06-17. Баланс, доступность моделей, цены, конвертация валют, поведение API и акции могут измениться. Перед оплатой всегда проверяйте живой сайт и dashboard FreeModel.
+
+## 相关阅读
+
+- [FreeModel Review: Claude Fable 5, GPT-5.5, Claude Code API](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code-en)
+- [FreeModel 模型中转站推荐：Claude Fable 5、gpt-5.5、Claude Code 和 OpenAI 兼容 API 使用指南](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code)
+- [FreeModel limited offer: use gpt-5.6-sol free in WorkBuddy](https://obvps.com/posts/freemodel-workbuddy-gpt56-sol-free-event-en)

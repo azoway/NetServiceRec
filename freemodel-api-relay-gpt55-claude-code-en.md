@@ -1,4 +1,4 @@
-# FreeModel review: Claude Fable 5, gpt-5.5, Claude Code, and OpenAI-compatible API access
+# FreeModel Review: Claude Fable 5, GPT-5.5, Claude Code API
 
 FreeModel is worth testing if you want one API provider for Claude Code, Cline, Cursor, ChatBox, OpenAI SDK projects, and other AI development tools. It supports Claude-style API access for Anthropic ecosystem clients and OpenAI-compatible access for tools that expect a custom `base_url` and API key.
 
@@ -307,3 +307,9 @@ If you want to try it, start here: [FreeModel signup](https://agentrouter.org/re
 Register, claim the signup credit, run real tasks, then decide whether you need more credits or a higher rate-limit tier.
 
 This article is based on user-provided FreeModel information and the public FreeModel entry point on 2026-06-17. Balance rules, model availability, pricing, currency conversion, API behavior, and promotions may change. Always verify on the live FreeModel website and dashboard before paying.
+
+## 相关阅读
+
+- [FreeModel: Claude Fable 5, gpt-5.5, Claude Code и OpenAI-compatible API](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code-ru)
+- [FreeModel 模型中转站推荐：Claude Fable 5、gpt-5.5、Claude Code 和 OpenAI 兼容 API 使用指南](https://obvps.com/posts/freemodel-api-relay-gpt55-claude-code)
+- [FreeModel limited offer: use gpt-5.6-sol free in WorkBuddy](https://obvps.com/posts/freemodel-workbuddy-gpt56-sol-free-event-en)

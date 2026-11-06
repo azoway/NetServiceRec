@@ -112,3 +112,9 @@ UHD Service 兼容 Emby 协议，观看用三方客户端。官方 Emby App 不�
 注册并核对当前价格：[UHD Service 注册入口](https://www.uhdnow.com/signup?invite=U1J1Q0)
 
 本文按 2026-09-23 的公开定价页和账户内订阅卡片整理。客户端名单按 2026-08-10 的推荐整理。价格、流量、线路、补充包、地区限制和应用上架情况会变，以下单页为准。
+
+## 相关阅读
+
+- [流媒体解锁服务之Emby体验推荐 - UHD Service超高清影音媒体库](https://obvps.com/posts/流媒体解锁服务之emby体验推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX PRO-ONE 月付 ¥16.99，三网双程优化 CN2 GIA，下单送 We Emby 会员](https://obvps.com/posts/acck-io美国洛杉矶vps-lax-pro-one三网优化emby联动推荐)
+- [2025年稳定可靠的中国付费接码平台推荐 | Stable SMS Platform Guide 2025](https://obvps.com/posts/中国付费接码平台推荐二recommended-paid-sms-activation-platforms-in-china)

@@ -197,3 +197,9 @@ A：会，促销和库存会影响展示价格。本文用于快速对比，最�
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [腾讯云轻量2H4G80G6M服务器108每年](https://obvps.com/posts/腾讯云轻量2h4g80g6m服务器108每年)
+- [PO0 双十一年付特惠 1288 元：腾讯云广州/华东 300Mbps，附 RFCHost 与 KFCHost 联动福利](https://obvps.com/posts/po0双十一1288年付特惠)
+- [AKCDN SH-HK 沪港 IX CCN 专线实测：免前置机，10 元起可用（5 元小包仍不可用）](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide)

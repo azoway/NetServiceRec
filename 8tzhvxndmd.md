@@ -23,3 +23,9 @@
 3. Top：一种可以实时查看系统进程的命令行工具，能够帮助用户及时发现和解决占用资源的进程问题。
 
 通过学习VPS服务器常用命令和软件，用户能够更加便捷地进行操作和维护，提升工作效率，保证系统的正常运行。
+
+## 相关阅读
+
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)
+- [AkileCloud US VPS Detailed Review: 4837 Optimized Line + Native IP + Streaming …](https://obvps.com/posts/akilecloud-us-vps-review-4837-optimized-line-native-ip-streaming)
+- [AkileCloud 越南胡志明 VNPT NAT VPS 上新：年付 ¥158.88，动态 IPv4 + 独立 IPv6](https://obvps.com/posts/akilecloud-vnpt-nat-starter-vietnam-vps)

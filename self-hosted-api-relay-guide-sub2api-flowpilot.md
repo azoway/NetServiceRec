@@ -1,4 +1,4 @@
-# Self-Hosted API Relay Guide: Sub2API + FlowPilot + Cloudflare Temp Email + HeroSMS
+# Self-Hosted API Relay: Sub2API + FlowPilot Setup Guide
 
 > This guide walks through a practical way to build a self-hosted AI API relay on a VPS. The stack here uses [Sub2API](https://github.com/Wei-Shaw/sub2api) as the gateway and billing panel, [FlowPilot](https://github.com/QLHazyCoder/FlowPilot) for account automation and callback submission, [Cloudflare Temp Email](https://flowpilot.qlhazycoder.top/tutorial/cloudflare-temp-email-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E) for mailbox generation and code retrieval, and [HeroSMS](https://hero-sms.com/?ref=509318) for phone verification when OpenAI asks for SMS.
 

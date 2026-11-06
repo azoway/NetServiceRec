@@ -210,3 +210,9 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 
 - 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
 - 本文仅做信息整理与经验分享，请按自身需求理性选购。
+
+## 相关阅读
+
+- [AkileCloud新春促销套餐：日本JPBase与新加坡SGBase流媒体解锁VPS推荐](https://obvps.com/posts/akilecloud新春促销套餐)
+- [TierHive NAT VPS 推荐：新加坡最便宜的服务器 + Alpine + GOST SOCKS5](https://obvps.com/posts/tierhive-vps推荐与alpine-gost搭建)
+- [流媒体解锁VPS推荐频道介绍 | @streaming_vps](https://obvps.com/posts/流媒体解锁vps推荐频道介绍)

@@ -242,3 +242,9 @@ YesCaptcha 注册入口：
 这条链路稳定后，再考虑增加账号数量。不要把“号池规模”放在“可维护性”前面。Grok Token 号池真正麻烦的地方不是注册第一批账号，而是过几天、过几周以后，你还能不能看懂每个账号为什么可用或不可用。
 
 本文基于 2026-07-14 公开 GitHub 项目 README 和 YesCaptcha 费用资料整理。CLIProxyAPI、grok-build-auth、YesCaptcha、x.ai / Grok 的接口、价格、风控和服务条款可能随时变化，实际操作请以官方页面和项目文档为准。
+
+## 相关阅读
+
+- [Building a Grok token pool with CLIProxyAPI, grok-build-auth and YesCaptcha](https://obvps.com/posts/grok-token-pool-cliproxyapi-yescaptcha-guide-en)
+- [NVIDIA Build API Key 批量注册与管理：nvidia-register + YesCaptcha + somanyapikeys](https://obvps.com/posts/nvidia-build-apikey-register-somanyapikeys-yescaptcha)
+- [YesCaptcha 验证码识别平台：任务类型、真实成本和接入步骤](https://obvps.com/posts/yescaptcha-captcha-solver-price-guide)

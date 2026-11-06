@@ -76,3 +76,9 @@ Ping工具可以检测到较多国内和国外节点的PING速度，在一定程
 #### 大家可以用OB推荐的廉价月付的virmach的各个节点VPS测试以作测试:  
 > [Virmach最新优惠 VPS 1美元起售](https://billing.virmach.com/aff.php?aff=2385&gid=18)  
 > [Test IP & Looking Glass Locations](https://billing.virmach.com/aff.php?aff=2385&http://lg.virmach.com/)
+
+## 相关阅读
+
+- [萌咖脚本VPS一键重装系统教程 2025版 (Debian/Ubuntu/CentOS 全系统支持)](https://obvps.com/posts/使用萌咔脚本更换vps系统)
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

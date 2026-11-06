@@ -24,3 +24,9 @@ wget --no-check-certificate -O /opt/nft-nat.sh https://raw.githubusercontent.com
 chmod 755 /opt/nft-nat.sh
 (crontab -l ; echo "0 */2 * * * /opt/nft-nat.sh") | crontab -
 ```
+
+## 相关阅读
+
+- [使用nftables配置VPS仅允许Cloudflare IP访问Web端口的完整指南](https://obvps.com/posts/vps服务器配置nftables仅允许cloudflare的ip访问web端口)
+- [Debian使用caddy2搭建Typecho网站](https://obvps.com/posts/debian使用caddy2搭建typecho网站)
+- [gost下载安装配置vps进行端口转发中转加速](https://obvps.com/posts/gost下载安装配置vps进行端口转发中转加速)

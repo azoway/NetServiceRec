@@ -158,3 +158,9 @@ HeroSMS 在 SMS-Activate 技术基础设施上做了产品与运营层面的升�
 
 - 套餐、价格与库存可能随平台活动实时调整，请以下单页信息为准。  
 - 本文为信息整理与使用经验分享，请按自身需求理性选购，并遵守相关服务条款与法律要求。
+
+## 相关阅读
+
+- [HeroSMS обзор: приём SMS для OpenAI, ChatGPT и AI-сервисов](https://obvps.com/posts/herosms-sms)
+- [HeroSMS Review 2026: AI SMS Verification, AI Registration & SMS-Activate Code](https://obvps.com/posts/herosms-sms-activation-platform-review)
+- [2025年稳定可靠的中国付费接码平台推荐 | Stable SMS Platform Guide 2025](https://obvps.com/posts/中国付费接码平台推荐二recommended-paid-sms-activation-platforms-in-china)

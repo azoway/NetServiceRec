@@ -49,3 +49,9 @@ Looking Glass：https://lg.dmit.sh/?server=tyo-pro
 ---
 
 下单前核对官网显示的库存、条款和计费周期。
+
+## 相关阅读
+
+- [DMIT LAX AS3 全系列补货：Pro、Eyeball、Tier 1 洛杉矶 VPS 怎么选](https://obvps.com/posts/dmit-lax-as3-pro-quanxilie-buhuo)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX9929-MINI 月付 19.99 元，1000G 流量入门套餐](https://obvps.com/posts/acck-io美国洛杉矶vps-lax9929-mini推荐)
+- [acck.io 美国洛杉矶 VPS 推荐：LAX PRO-ONE 月付 ¥16.99，三网双程优化 CN2 GIA，下单送 We Emby 会员](https://obvps.com/posts/acck-io美国洛杉矶vps-lax-pro-one三网优化emby联动推荐)

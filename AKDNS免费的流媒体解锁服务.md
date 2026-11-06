@@ -93,3 +93,9 @@ AKDNS是一款强大的AnyCast全球公共流媒体解锁DNS服务，为用户�
    - 选择地理位置较近的DNS服务器
    - 检查本地网络状况
    - 尝试使用其他区域的DNS
+
+## 相关阅读
+
+- [AKDNS - Free Global Streaming Media Unblock DNS Service](https://obvps.com/posts/akdns-free-streaming-media-unblock-service)
+- [流媒体解锁服务之Emby体验推荐 - UHD Service超高清影音媒体库](https://obvps.com/posts/流媒体解锁服务之emby体验推荐)
+- [如何测试VPS是否能完美解锁Netflix流媒体服务](https://obvps.com/posts/如何测试vps是否能完美解锁netflix流媒体服务)
