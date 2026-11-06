@@ -1,8 +1,10 @@
 # 2025年最新中国付费短信接码平台推荐 | SMS Activation Platform Guide 2025
 
-> 专业可靠的手机验证码接收服务，支持全球多个国家和地区 📱
+> 这篇文章围绕「2025年最新中国付费短信接码平台推荐 | SMS Activation Platform Guide 2025」整理了可直接落地的步骤，适合按顺序操作并逐项验证结果。
 
 ## 🌟 平台特点
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - ✅ 支持中国、香港、菲律宾、澳门等多地区手机号
 - 🔄 每日更新全新未使用号码
@@ -11,7 +13,7 @@
 
 ## 📱 快速开始
 
-[👉 点击此处访问平台注册页面](http://h5.yezi66.net:90/invite/9607189)
+[👉 点击此处访问平台注册页面](https://www.qc86.shop/login?inviterCode=300138)
 
 ## 📋 支持的主要应用
 
@@ -71,7 +73,7 @@
 - 💰 Unlimited SMS reception after purchase
 - 🔒 Secure verification code service
 
-[👉 Quick Registration Link](http://h5.yezi66.net:90/invite/9607189)
+[👉 Quick Registration Link](https://www.qc86.shop/login?inviterCode=300138)
 
 ## ⚠️ Important Notes
 
@@ -85,4 +87,4 @@
 
 - Test SMS reception before purchase
 - Monitor platform announcements
-- Choose appropriate number types for your needs 
+- Choose appropriate number types for your needs

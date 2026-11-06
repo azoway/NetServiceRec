@@ -1,6 +1,10 @@
 # AKDNS - 免费全球流媒体解锁DNS服务
 
+> 围绕「AKDNS - 免费全球流媒体解锁DNS服务」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## 🌟 服务介绍
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 AKDNS是一款强大的AnyCast全球公共流媒体解锁DNS服务，为用户提供高质量的Netflix、Disney+、HBO Max、Hulu等流媒体平台的解锁服务。目前处于测试阶段，提供超大流量限额和长期免费使用期限。
 
@@ -12,7 +16,7 @@ AKDNS是一款强大的AnyCast全球公共流媒体解锁DNS服务，为用户�
 
 ## 📝 注册方式
 
-访问官方注册链接：[AKDNS注册页面](https://akile.io/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+访问官方注册链接：[AKDNS注册页面](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 💻 DNS服务器列表
 
@@ -89,7 +93,3 @@ AKDNS是一款强大的AnyCast全球公共流媒体解锁DNS服务，为用户�
    - 选择地理位置较近的DNS服务器
    - 检查本地网络状况
    - 尝试使用其他区域的DNS
-
-
-
-

@@ -1,8 +1,10 @@
 # 2025香港原生IP VPS推荐指南 | Hong Kong VPS Guide 2025
 
-> 香港原生IP服务器，完美优化大陆直连访问，支持电信联通CUG、移动CMI双程，解锁全球流媒体 🌟
+> 围绕「2025香港原生IP VPS推荐指南 | Hong Kong VPS Guide 2025」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## 🌟 产品亮点
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🏰 香港原生IP资源
 - ⚡️ 大陆优化直连线路
@@ -26,7 +28,7 @@
 💰 价格：¥87.49/月
 🔄 重置流量：¥70.00
 ```
-[🚀 立即订购](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=816&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 立即订购](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=816&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 2️⃣ HKPRO-Starter 入门版
 ```properties
@@ -41,7 +43,7 @@
 💰 价格：¥44.99/月
 🔄 重置流量：¥35.00
 ```
-[🚀 立即订购](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 立即订购](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 🌟 套餐对比
 
@@ -97,3 +99,8 @@
 - Premium network quality
 
 [View detailed English specifications above]
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

@@ -1,8 +1,12 @@
 # AkileCloud SOCKS5代理服务推荐
 
+> 围绕「AkileCloud SOCKS5代理服务推荐」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 #AkileCloud #SOCKS5 #代理服务
 
 ## 产品特色
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 - 🌍 全球多地区SOCKS5代理服务
 - 🚀 高速稳定的代理连接
 - ⚡ 支持IPv6和特定运营商线路
@@ -113,8 +117,6 @@ socks://akilecloud:akilecloud@45.207.158.220:588
 ## 相关产品
 如需购买AkileCloud VPS产品，请访问：
 
-[访问AkileCloud官网](https://akile.io/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[访问AkileCloud官网](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
-[访问AkileCloud商店](https://akile.io/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
-
-*最后更新时间：2026年1月*
+[访问AkileCloud商店](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)

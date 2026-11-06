@@ -1,6 +1,10 @@
 # Akile Italy VPS Server - Unlimited Traffic Plans Guide
 
+> 围绕「Akile Italy VPS Server - Unlimited Traffic Plans Guide」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## Product Features
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 - 🌍 Italy Data Center Location
 - 🎬 Perfect Streaming Media Unblocking
 - 🚀 Unlimited Traffic
@@ -29,7 +33,7 @@
 #### Pricing
 - Monthly: ¥235.00
 
-[Purchase Basic Plan](https://akile.io/shop/server?type=traffic&areaId=13&nodeId=28&planId=968&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[Purchase Basic Plan](https://akile.ai/shop/server?type=traffic&areaId=13&nodeId=28&planId=968&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### Premium Plan (IT-UNLIMITED-1000M)
 #### Technical Specifications
@@ -44,7 +48,7 @@
 #### Pricing
 - Monthly: ¥360.00
 
-[Purchase Premium Plan](https://akile.io/shop/server?type=traffic&areaId=13&nodeId=28&planId=969&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[Purchase Premium Plan](https://akile.ai/shop/server?type=traffic&areaId=13&nodeId=28&planId=969&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## Product Advantages
 1. Unlimited Traffic - No Usage Concerns
@@ -59,4 +63,7 @@
 - 24/7 Technical support provided
 - On-demand traffic reset available
 
-*Last Updated: March 2025* 
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

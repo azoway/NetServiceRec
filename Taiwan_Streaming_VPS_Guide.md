@@ -1,8 +1,10 @@
 # Taiwan Streaming VPS Guide 2025
 
-> Professional Taiwan VPS recommendations for streaming services, supporting Netflix, Disney+, ChatGPT, and more 🎬
+> 围绕「Taiwan Streaming VPS Guide 2025」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## 🌟 Service Features
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🎯 DNS unlocking for Taiwan streaming content
 - 🚀 No mainland China optimized routes
@@ -27,7 +29,7 @@ Specifications:
 💰 Price: ¥24.99/month
 🔄 Traffic Reset: ¥20.00
 ```
-[👉 Buy Now](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=11&planId=827&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 Buy Now](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=11&planId=827&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 #### 2️⃣ TWLite-One Economy Package
 ```properties
@@ -57,7 +59,7 @@ Specifications:
 💰 Price: ¥43.74/month
 🔄 Traffic Reset: ¥36.00
 ```
-[👉 Buy Now](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=11&planId=828&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 Buy Now](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=11&planId=828&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 👥 Team User Packages
 
@@ -74,7 +76,7 @@ Specifications:
 💰 Price: ¥411.10/month
 🔄 Traffic Reset: ¥10.00
 ```
-[👉 Buy Now](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=16&planId=859&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 Buy Now](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=16&planId=859&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 🎯 TikTok Special Package
 
@@ -91,7 +93,7 @@ Specifications:
 💰 Price: ¥611.00/month
 🔄 Traffic Reset: ¥20.00
 ```
-[👉 Buy Now](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=21&planId=906&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 Buy Now](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=21&planId=906&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## ⚙️ DNS Setup Guide
 
@@ -124,4 +126,9 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 - ⚠️ Unlock test results are for reference only, actual usage may vary
 - 🔄 You can switch between different regional DNS servers as needed
 - 💾 Backup original configuration before changing DNS settings
-- 🌐 Default DNS server is suitable for most scenarios 
+- 🌐 Default DNS server is suitable for most scenarios
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

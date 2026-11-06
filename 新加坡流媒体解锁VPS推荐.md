@@ -1,8 +1,10 @@
 # 2025新加坡流媒体解锁VPS推荐指南 | Singapore VPS Guide 2025
 
-> 专业稳定的新加坡流媒体解锁服务器，支持 Netflix、Disney+、ChatGPT、Abema、DMM 等多平台解锁 🌟
+> 围绕「2025新加坡流媒体解锁VPS推荐指南 | Singapore VPS Guide 2025」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## 🎯 产品亮点
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🎬 支持 Netflix、Disney+ 等主流流媒体
 - 🎮 支持 Abema、DMM 等日本流媒体
@@ -29,7 +31,7 @@
 
 💰 月付价格：¥24.99
 ```
-[🚀 快速订购](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=18&planId=892&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 快速订购](https://akile.ai/shop/server?type=traffic&areaId=7&nodeId=18&planId=892&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 #### 2️⃣ SGLite-Starter 标准版
 ```properties
@@ -45,7 +47,7 @@
 
 💰 月付价格：¥43.74
 ```
-[🚀 快速订购](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=18&planId=887&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 快速订购](https://akile.ai/shop/server?type=traffic&areaId=7&nodeId=18&planId=887&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## ⚙️ 解锁配置指南
 
@@ -133,7 +135,7 @@ Specifications:
 
 💰 Monthly Price: $3.99
 ```
-[🚀 Quick Order](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=18&planId=892&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 Quick Order](https://akile.ai/shop/server?type=traffic&areaId=7&nodeId=18&planId=892&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 #### 2️⃣ SGLite-Starter Standard Version
 ```properties
@@ -149,7 +151,7 @@ Specifications:
 
 💰 Monthly Price: $7.29
 ```
-[🚀 Quick Order](https://akile.io/shop/server?type=traffic&areaId=7&nodeId=18&planId=887&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 Quick Order](https://akile.ai/shop/server?type=traffic&areaId=7&nodeId=18&planId=887&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## ⚙️ Unblocking Configuration Guide
 
@@ -203,3 +205,8 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 ### 🤖 Other Services
 - ChatGPT
 - More services coming soon...
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

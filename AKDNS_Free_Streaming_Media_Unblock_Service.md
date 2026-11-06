@@ -1,6 +1,10 @@
 # AKDNS - Free Global Streaming Media Unblock DNS Service
 
+> 围绕「AKDNS - Free Global Streaming Media Unblock DNS Service」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## 🌟 Service Introduction
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 AKDNS is a powerful AnyCast global public DNS service designed to unlock streaming media platforms. It provides high-quality unblocking services for Netflix, Disney+, HBO Max, Hulu, and other streaming platforms. Currently in beta testing, it offers generous traffic allowance and an extended free usage period.
 
@@ -12,7 +16,7 @@ AKDNS is a powerful AnyCast global public DNS service designed to unlock streami
 
 ## 📝 Registration
 
-Visit the official registration page: [AKDNS Registration](https://akile.io/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+Visit the official registration page: [AKDNS Registration](https://akile.ai/register?aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 💻 DNS Server List
 
@@ -88,4 +92,4 @@ Current Example User Info:
 3. Slow Speed?
    - Select a geographically closer DNS server
    - Check local network conditions
-   - Try alternative regional DNS servers 
+   - Try alternative regional DNS servers

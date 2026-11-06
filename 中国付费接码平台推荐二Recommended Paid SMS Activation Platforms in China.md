@@ -1,8 +1,10 @@
 # 2025年稳定可靠的中国付费接码平台推荐 | Stable SMS Platform Guide 2025
 
-> 提供全球多地区手机验证码接收服务，支持抖音等主流应用注册 🌏
+> 围绕「2025年稳定可靠的中国付费接码平台推荐 | Stable SMS Platform Guide 2025」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## ⭐️ 平台优势
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🌍 覆盖中国、英国、香港、菲律宾、澳门等地区
 - 🔐 安全稳定的验证码接收服务
@@ -11,7 +13,7 @@
 
 ## ⚡️ 快速通道
 
-[🔥 点击这里访问平台注册页面](https://h5.haozhuma.cn/reg.html?action=azaszlbmzlas)
+[🔥 点击这里访问平台注册页面](https://www.qc86.shop/login?inviterCode=300138)
 
 ## 📱 支持的应用
 
@@ -78,7 +80,7 @@
 - 💫 TikTok registration support
 - 🔒 Secure and stable service
 
-[🔥 Quick Registration Access](https://h5.haozhuma.cn/reg.html?action=azaszlbmzlas)
+[🔥 Quick Registration Access](https://www.qc86.shop/login?inviterCode=300138)
 
 ## ⚠️ Important Guidelines
 

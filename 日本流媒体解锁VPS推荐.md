@@ -1,6 +1,10 @@
 # 2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选
 
+> 围绕「2025年最新日本流媒体解锁VPS推荐 - 看Netflix/Disney+/ChatGPT首选」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## 为什么选择日本VPS？
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🚀 超低延迟，观看流媒体无卡顿
 - 🌐 优质国际网络接入（GSL/PCCW/COGENT/EIE/JPNAP）
@@ -20,7 +24,7 @@
   - IP地址：1个IPv4 + 1个IPv6
 - **月付价格**：¥14.99
 - **流量重置**：¥9.00
-- 👉 [立即购买](https://akile.io/shop/server?type=traffic&areaId=5&nodeId=25&planId=948&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- 👉 [立即购买](https://akile.ai/shop/server?type=traffic&areaId=5&nodeId=25&planId=948&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 2. JPHyper-Mini 大流量套餐
 - **配置详情**：
@@ -32,7 +36,7 @@
   - IP地址：1个IPv4 + 1个IPv6
 - **月付价格**：¥25.99
 - **流量重置**：¥22.50
-- 👉 [立即购买](https://akile.io/shop/server?type=traffic&areaId=5&nodeId=25&planId=944&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- 👉 [立即购买](https://akile.ai/shop/server?type=traffic&areaId=5&nodeId=25&planId=944&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## DNS解锁设置指南
 
@@ -65,4 +69,9 @@ Q：流量超出后会如何？
 A：超出后会限速至10Mbps共享带宽，但不会完全中断服务。可随时购买流量重置。
 
 ---
-*最后更新：2024年3月* 
+*最后更新：2024年3月*
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

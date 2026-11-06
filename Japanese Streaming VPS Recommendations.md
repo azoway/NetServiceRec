@@ -1,6 +1,10 @@
 # Best Japanese VPS for Streaming in 2025 - Perfect for Netflix/Disney+/ChatGPT
 
+> 围绕「Best Japanese VPS for Streaming in 2025 - Perfect for Netflix/Disney+/ChatGPT」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## Why Choose Japanese VPS?
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🚀 Ultra-low latency for smooth streaming
 - 🌐 Premium international network access (GSL/PCCW/COGENT/EIE/JPNAP)
@@ -20,7 +24,7 @@
   - IP Addresses: 1 IPv4 + 1 IPv6
 - **Monthly Price**: ¥14.99
 - **Traffic Reset**: ¥9.00
-- 👉 [Buy Now](https://akile.io/shop/server?type=traffic&areaId=5&nodeId=25&planId=948&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- 👉 [Buy Now](https://akile.ai/shop/server?type=traffic&areaId=5&nodeId=25&planId=948&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 2. JPHyper-Mini High Traffic Plan
 - **Specifications**:
@@ -32,7 +36,7 @@
   - IP Addresses: 1 IPv4 + 1 IPv6
 - **Monthly Price**: ¥25.99
 - **Traffic Reset**: ¥22.50
-- 👉 [Buy Now](https://akile.io/shop/server?type=traffic&areaId=5&nodeId=25&planId=944&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- 👉 [Buy Now](https://akile.ai/shop/server?type=traffic&areaId=5&nodeId=25&planId=944&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## DNS Unlocking Setup Guide
 
@@ -64,5 +68,7 @@ A: If mainly used for streaming, the Lite plan is recommended; if you need to ru
 Q: What happens when traffic limit is exceeded?  
 A: Speed will be limited to 10Mbps shared bandwidth, but service won't be completely interrupted. You can purchase traffic reset at any time.
 
----
-*Last Updated: March 2024* 
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

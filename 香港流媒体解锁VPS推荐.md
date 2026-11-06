@@ -1,6 +1,10 @@
 # 2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)
 
+> 围绕「2024最新香港VPS推荐 - 最佳流媒体解锁服务器(Netflix/Disney+/ChatGPT)」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## 为什么选择香港VPS？
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🚀 超低延迟，访问速度快
 - 🎬 支持解锁Netflix、Disney+等流媒体
@@ -23,7 +27,7 @@
   - 流量: 1000GB/月
   - IP: IPv4 + IPv6
 - **适用场景**: 个人观影、轻度使用
-- [立即购买](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=1&planId=819&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- [立即购买](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=1&planId=819&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 2. HKPRO-Starter (稳定之选)
 - **价格**: ¥44.99/月
@@ -35,7 +39,7 @@
   - 流量: 500GB/月
   - IP: 1个IPv4
 - **适用场景**: 家庭共享、中度使用
-- [立即购买](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- [立即购买](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 3. HKPlus-Starter (高速首选)
 - **价格**: ¥53.74/月
@@ -47,7 +51,7 @@
   - 流量: 500GB/月
   - IP: 1个IPv4
 - **适用场景**: 4K视频、大流量用户
-- [立即购买](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=5&planId=831&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+- [立即购买](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=5&planId=831&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 流媒体解锁设置指南
 
@@ -115,8 +119,7 @@ IPv4 1个 ｜ IPv6 1个
 ¥9.99/月
 ```
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=3&nodeId=1&planId=819&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
-
+- 下单链接：[查看实时库存](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=1&planId=819&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 ```
 HKPRO-Starter
 CPU 1核 ｜ 内存 1024 M
@@ -127,8 +130,7 @@ IPv4 1个 ｜ IPv6 0个
 ¥44.99/月
 ```
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583
-
+- 下单链接：[查看实时库存](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 ```
 HKPlus-Starter
 CPU 1核 ｜ 内存 1024 M
@@ -139,8 +141,7 @@ IPv4 1个 ｜ IPv6 0个
 ¥53.74/月
 ```
 
-下单链接：https://akile.io/shop/server?type=traffic&areaId=3&nodeId=5&planId=831&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583  
-
+- 下单链接：[查看实时库存](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=5&planId=831&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 购买VPS后设置DNS解锁：  
 Default: 154.83.83.83  
 HK: 154.83.83.84  
@@ -163,3 +164,8 @@ cp /etc/resolv.conf /etc/resolv.conf.bak && echo "nameserver 154.83.83.83" > /et
 ```bash
 bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/check.sh) -M 4
 ```
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

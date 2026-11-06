@@ -1,9 +1,10 @@
-# AkileCloud Spring Promo 2026: JPBase (Japan) and SGBase (Singapore) Streaming VPS
+# AkileCloud Spring Promo 2026: JPBase (Japan) and SGBase (Singapore) Streaming V…
 
-> Looking for a Japan VPS or Singapore VPS with streaming unlock support?  
-> AkileCloud Spring Promo 2026 includes cost-effective JPBase and SGBase plans for media streaming, cross-border business access, and lightweight deployment.
+> 围绕「AkileCloud Spring Promo 2026: JPBase (Japan) and SGBase (Singapore) Streaming VPS」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## Why choose AkileCloud JPBase and SGBase plans?
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - Japan and Singapore node options for better Asia connectivity
 - 2000Mbps bandwidth with up to 6000GB monthly traffic
@@ -46,6 +47,7 @@ Your service is not shut down. It is rate-limited to shared 10Mbps, and you can 
 ### Who are these plans for?
 They are suitable for users needing Japan/Singapore network exits, streaming access, and lightweight overseas VPS deployment.
 
----
+## 📌 选购说明
 
-*Last updated: March 2026*
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

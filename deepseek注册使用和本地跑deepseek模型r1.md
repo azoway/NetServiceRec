@@ -1,9 +1,12 @@
-开始注册使用 DeepSeek，您可以选择在线注册使用或在本地部署模型。以下是详细的步骤指导：
-To start using DeepSeek, you can either register online or deploy the model locally. Below is a detailed step-by-step guide:
+# deepseek注册使用和本地跑deepseek模型r1
+
+> 围绕「deepseek注册使用和本地跑deepseek模型r1」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ---
 
 ## **一、注册并在线使用 DeepSeek**
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 1. **访问官网**：
    - 打开 DeepSeek 官方网站：[https://www.deepseek.com/](https://www.deepseek.com/)。
@@ -13,9 +16,9 @@ To start using DeepSeek, you can either register online or deploy the model loca
    - 输入您的手机号，设置密码，按照提示完成注册流程 . 
    - 如果需要中国的手机号可以使用接码平台的号码进行辅助注册，以下是注册渠道 
    - If you need a Chinese phone number, you can use a SMS activation platform number for assisted. registration. Below are the registration channels:
-   - [中国版接码平台快速注册deepseek直达地址](http://h5.yezi66.net:90/invite/9607189)
+   - [中国版接码平台快速注册deepseek直达地址](https://www.qc86.shop/login?inviterCode=300138)
    - [国际版接码平台快速注册deepseek直达地址](https://hero-sms.com/?ref=509318)
-   - [Quick Registration Link for the China Version of SMS Activation Platform - Direct Access to DeepSeek](http://h5.yezi66.net:90/invite/9607189)
+   - [Quick Registration Link for the China Version of SMS Activation Platform - Direct Access to DeepSeek](https://www.qc86.shop/login?inviterCode=300138)
    - [Quick Registration Link for the International Version of SMS Activation Platform - Direct Access to DeepSeek](https://hero-sms.com/?ref=509318)
 ---
 

@@ -1,11 +1,12 @@
 # TierHive NAT VPS 推荐：新加坡最便宜的服务器 + Alpine + GOST SOCKS5
 
-**推荐链接（通过此链接注册可支持作者）：**  
-<https://tierhive.com/r/3CF119212CF2>
+> 这篇文章围绕「TierHive NAT VPS 推荐：新加坡最便宜的服务器 + Alpine + GOST SOCKS5」整理了可直接落地的步骤，适合按顺序操作并逐项验证结果。
 
 ---
 
 ## 一、为什么写这篇
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 [TierHive](https://tierhive.com/r/3CF119212CF2) 是 **NAT 架构 + 按小时计费** 的 VPS 平台：没有独立公网 IPv4，通过面板做端口转发；账号侧有 **/24 私网** 与跨机房 mesh 等能力。官网提供 HAProxy、SSL、邮件中继、数据库卸载、网络盘等配套。
 
@@ -170,3 +171,8 @@ rc-service gost status
 
 **再次附上推荐链接：**  
 <https://tierhive.com/r/3CF119212CF2>
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

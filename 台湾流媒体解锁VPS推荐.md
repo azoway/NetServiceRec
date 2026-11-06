@@ -1,8 +1,10 @@
 # 2025台湾流媒体解锁VPS推荐指南 | Taiwan VPS Guide 2025
 
-> 专业的台湾流媒体解锁服务器推荐，支持 Netflix、Disney+、ChatGPT 等多平台解锁 🎬
+> 围绕「2025台湾流媒体解锁VPS推荐指南 | Taiwan VPS Guide 2025」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ## 🌟 服务特点
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🎯 DNS 解锁台湾流媒体内容
 - 🚀 无大陆优化线路
@@ -27,7 +29,7 @@
 💰 价格：¥24.99/月
 🔄 重置流量：¥20.00
 ```
-[👉 立即购买](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=11&planId=827&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 立即购买](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=11&planId=827&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 #### 2️⃣ TWLite-One 经济套餐
 ```properties
@@ -57,7 +59,7 @@
 💰 价格：¥43.74/月
 🔄 重置流量：¥36.00
 ```
-[👉 立即购买](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=11&planId=828&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 立即购买](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=11&planId=828&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 👥 团队用户套餐
 
@@ -74,7 +76,7 @@
 💰 价格：¥411.10/月
 🔄 重置流量：¥10.00
 ```
-[👉 立即购买](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=16&planId=859&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 立即购买](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=16&planId=859&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 🎯 抖音专用套餐
 
@@ -91,7 +93,7 @@
 💰 价格：¥611.00/月
 🔄 重置流量：¥20.00
 ```
-[👉 立即购买](https://akile.io/shop/server?type=traffic&areaId=6&nodeId=21&planId=906&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[👉 立即购买](https://akile.ai/shop/server?type=traffic&areaId=6&nodeId=21&planId=906&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## ⚙️ DNS设置指南
 
@@ -119,7 +121,7 @@ cp /etc/resolv.conf /etc/resolv.conf.bak && echo "nameserver 154.83.83.83" > /et
 bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/check.sh) -M 4
 ```
 
-## 📝 注意事项
+## 📝 使用须知
 
 - ⚠️ 解锁测试结果仅供参考，以实际使用效果为准
 - 🔄 可根据需求切换不同地区的DNS服务器
@@ -140,3 +142,8 @@ bash <(curl -L -s https://github.com/1-stream/RegionRestrictionCheck/raw/main/ch
 - Stable connection
 
 [View English details below packages]
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

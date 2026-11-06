@@ -1,6 +1,10 @@
 # Complete Guide: Configuring nftables to Allow Only Cloudflare IPs for Web Access
 
+> 这篇文章围绕「Complete Guide: Configuring nftables to Allow Only Cloudflare IPs for Web Access」整理了可直接落地的步骤，适合按顺序操作并逐项验证结果。
+
 ## Introduction
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 In today's cybersecurity landscape, protecting your VPS server from malicious attacks is crucial. This comprehensive guide demonstrates how to implement nftables firewall rules that only allow web access from Cloudflare's IP addresses, significantly enhancing your server's security posture.
 
 ## Prerequisites
@@ -65,4 +69,4 @@ This configuration significantly enhances your server's security by restricting 
 - Compatible with major Linux distributions
 - Minimal performance impact
 - Automated rule updates available
-- Logging capabilities for security monitoring 
+- Logging capabilities for security monitoring

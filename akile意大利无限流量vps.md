@@ -1,6 +1,10 @@
 # Akile意大利VPS服务器 - 无限流量套餐详细介绍
 
+> 围绕「Akile意大利VPS服务器 - 无限流量套餐详细介绍」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
+
 ## 产品特色
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 - 🌍 意大利数据中心
 - 🎬 完美支持流媒体解锁
 - 🚀 无限制流量
@@ -29,7 +33,7 @@
 #### 价格
 - 月付：¥235.00
 
-[立即购买基础套餐](https://akile.io/shop/server?type=traffic&areaId=13&nodeId=28&planId=968&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[立即购买基础套餐](https://akile.ai/shop/server?type=traffic&areaId=13&nodeId=28&planId=968&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 高级套餐 (IT-UNLIMITED-1000M)
 #### 配置参数
@@ -44,7 +48,7 @@
 #### 价格
 - 月付：¥360.00
 
-[立即购买高级套餐](https://akile.io/shop/server?type=traffic&areaId=13&nodeId=28&planId=969&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[立即购买高级套餐](https://akile.ai/shop/server?type=traffic&areaId=13&nodeId=28&planId=969&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 产品优势
 1. 无限制流量，免除流量担忧
@@ -59,5 +63,7 @@
 - 提供7*24小时技术支持
 - 可按需重置流量
 
-*最后更新时间：2025年3月*
+## 📌 选购说明
 
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

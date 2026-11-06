@@ -1,8 +1,10 @@
 # Hong Kong Native IP VPS Guide 2025
 
-> Professional Hong Kong VPS service with native IP, mainland China optimization, CUG & CMI line support, and perfect streaming media unlock 🌟
+> 这篇文章围绕「Hong Kong Native IP VPS Guide 2025」整理了可直接落地的步骤，适合按顺序操作并逐项验证结果。
 
 ## 🌟 Key Features
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 - 🏰 Native Hong Kong IP
 - ⚡️ Mainland China optimized direct connection
@@ -26,7 +28,7 @@ Specifications:
 💰 Price: ¥87.49/month
 🔄 Traffic Reset: ¥70.00
 ```
-[🚀 Order Now](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=816&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 Order Now](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=816&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ### 2️⃣ HKPRO-Starter
 ```properties
@@ -41,7 +43,7 @@ Specifications:
 💰 Price: ¥44.99/month
 🔄 Traffic Reset: ¥35.00
 ```
-[🚀 Order Now](https://akile.io/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
+[🚀 Order Now](https://akile.ai/shop/server?type=traffic&areaId=3&nodeId=3&planId=815&aff_code=a1e2817f-c626-4f0b-b7ba-afce0951a583)
 
 ## 🌟 Package Comparison
 
@@ -80,4 +82,9 @@ Specifications:
 ### 🔰 Professional Tips
 - Choose bandwidth package based on needs
 - Plan traffic usage rationally
-- Renew on time to avoid service interruption 
+- Renew on time to avoid service interruption
+
+## 📌 选购说明
+
+- 套餐与价格可能随商家活动调整，请以下单页实时信息为准。
+- 本文仅做信息整理与经验分享，请按自身需求理性选购。

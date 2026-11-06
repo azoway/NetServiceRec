@@ -1,10 +1,12 @@
 # DeepSeek Registration and Local Model Deployment Guide
 
-To start using DeepSeek, you can either register online or deploy the model locally. Below is a detailed step-by-step guide:
+> 围绕「DeepSeek Registration and Local Model Deployment Guide」，本文保留关键参数与套餐要点，并补充选购时容易忽略的细节。
 
 ---
 
 ## **I. Register and Use DeepSeek Online**
+
+以下信息为公开套餐与经验整理，具体价格和库存请以下单页实时展示为准。
 
 1. **Visit the Official Website**:
    - Open the DeepSeek official website: [https://www.deepseek.com/](https://www.deepseek.com/)
@@ -13,7 +15,7 @@ To start using DeepSeek, you can either register online or deploy the model loca
    - Click the "Register" or "Sign Up" button on the page
    - Enter your phone number, set a password, and follow the prompts to complete registration
    - If you need a Chinese phone number, you can use an SMS activation platform for assisted registration. Below are the registration channels:
-   - [Quick Registration Link for the China Version of SMS Activation Platform - Direct Access to DeepSeek](http://h5.yezi66.net:90/invite/9607189)
+   - [Quick Registration Link for the China Version of SMS Activation Platform - Direct Access to DeepSeek](https://www.qc86.shop/login?inviterCode=300138)
    - [Quick Registration Link for the International Version of SMS Activation Platform - Direct Access to DeepSeek](https://hero-sms.com/?ref=509318)
 
 ---
@@ -53,4 +55,4 @@ If you want to run the DeepSeek model locally, here are the detailed steps:
 
 - **Model Size**: DeepSeek-R1 model comes in different parameter sizes. For example, the 7B parameter model is approximately 4.7GB. Choose the appropriate model version based on your hardware configuration.
 
-Successfully tested and deployed DeepSeek r1 7b model locally on MAC M3, achieving AI model inference in an offline environment with good performance. 
+Successfully tested and deployed DeepSeek r1 7b model locally on MAC M3, achieving AI model inference in an offline environment with good performance.
