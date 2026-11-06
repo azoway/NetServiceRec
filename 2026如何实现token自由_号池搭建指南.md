@@ -165,7 +165,7 @@ HeroSMS 注册入口：
 接码平台不能保证每一次都成功。验证码是否通过，还受 IP、设备环境、注册频率和平台风控影响。不要把失败全部归因于号码，也不要短时间连续重试同一套环境。
 
 如果你要了解 HeroSMS 的平台介绍和折扣说明，可以看站内文章：
-[HeroSMS 接码平台推荐](https://obvps.com/posts/herosms%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90/)
+[HeroSMS 接码平台推荐](https://obvps.com/posts/herosms接码平台推荐/)
 
 ## 代理和 IP 环境怎么准备
 

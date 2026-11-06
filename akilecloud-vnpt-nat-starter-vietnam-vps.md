@@ -62,7 +62,7 @@ VNPT-NAT-Starter 没有独立 IPv4。它使用共享动态 IPv4，并给用户�
 3. 查看库存、价格、NAT 端口说明、IPv6 状态和流量限制。
 4. 下单后先测试延迟、路由、流媒体解锁和端口映射，再部署长期服务。
 
-如果你还不熟悉 AkileCloud，也可以先看站内的 [AkileCloud SOCKS5 代理服务推荐](https://obvps.com/posts/akilecloud-socks5%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E6%8E%A8%E8%8D%90/)，里面整理了 AkileCloud 用户可用的部分代理服务和注意事项。
+如果你还不熟悉 AkileCloud，也可以先看站内的 [AkileCloud SOCKS5 代理服务推荐](https://obvps.com/posts/akilecloud-socks5代理服务推荐/)，里面整理了 AkileCloud 用户可用的部分代理服务和注意事项。
 
 ## FAQ
 

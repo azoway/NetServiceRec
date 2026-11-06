@@ -149,7 +149,7 @@ When the status page shows "down," recovery time is unpredictable. It depends on
 
 ### Does it support automated batch API calls?
 
-Yes. The relay is OpenAI API-compatible, so you can batch-call via SDK or scripts. If you have token pool or automated registration needs, see our [token pool setup guide](https://obvps.com/posts/flowpilot-token-pool-guide-2026-gpt-codex-free-registration-en/).
+Yes. The relay is OpenAI API-compatible, so you can batch-call via SDK or scripts. If you have token pool or automated registration needs, see our [token pool setup guide](https://obvps.com/posts/flowpilot-token-pool-guide-2026-gpt-codex-free-registration).
 
 ### What payment methods does top-up support?
 

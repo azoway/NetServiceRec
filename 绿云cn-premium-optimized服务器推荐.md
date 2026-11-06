@@ -207,8 +207,8 @@
 
 如果你还在对比不同地区的亚洲节点，也可以顺手看站内这两篇：
 
-- [日本流媒体解锁 VPS 推荐](https://obvps.com/posts/%E6%97%A5%E6%9C%AC%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81vps%E6%8E%A8%E8%8D%90/)
-- [新加坡流媒体解锁 VPS 推荐](https://obvps.com/posts/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81vps%E6%8E%A8%E8%8D%90/)
+- [日本流媒体解锁 VPS 推荐](https://obvps.com/posts/日本流媒体解锁vps推荐/)
+- [新加坡流媒体解锁 VPS 推荐](https://obvps.com/posts/新加坡流媒体解锁vps推荐/)
 
 虽然那两篇更偏流媒体场景，但如果你本来就在日本和新加坡节点之间摇摆，拿来一起看会更有参考价值。
 

@@ -157,7 +157,7 @@ HeroSMS 提供开发者 API，适合：
 
 API 密钥与文档在登录后的开发者中心获取。批量场景下 **API 单价通常低于反复手动下单**，且便于与 Auto 多轮注册联动。
 
-更完整的平台介绍、五级折扣与 FAQ 见站内文章：[HeroSMS 接码平台推荐](https://obvps.com/posts/herosms%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90/)。
+更完整的平台介绍、五级折扣与 FAQ 见站内文章：[HeroSMS 接码平台推荐](https://obvps.com/posts/herosms接码平台推荐/)。
 
 ---
 
@@ -315,7 +315,7 @@ Sub2API README 已声明可能违反上游 ToS，请自行阅读协议并承担�
 | FlowPilot 教程站 | [flowpilot.qlhazycoder.top/tutorial](https://flowpilot.qlhazycoder.top/tutorial/) |
 | Cloudflare Temp Email 教程 | [FlowPilot · Temp Email](https://flowpilot.qlhazycoder.top/tutorial/cloudflare-temp-email-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E) |
 | HeroSMS 接码 | [hero-sms.com](https://hero-sms.com/?ref=509318)（促销码 `obvps`） |
-| HeroSMS 详细介绍 | [本站 · HeroSMS 接码平台推荐](https://obvps.com/posts/herosms%E6%8E%A5%E7%A0%81%E5%B9%B3%E5%8F%B0%E6%8E%A8%E8%8D%90/) |
+| HeroSMS 详细介绍 | [本站 · HeroSMS 接码平台推荐](https://obvps.com/posts/herosms接码平台推荐/) |
 
 ---
 
