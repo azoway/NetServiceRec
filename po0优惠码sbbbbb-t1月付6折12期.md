@@ -1,8 +1,8 @@
-# PO0 优惠码 sbbbbb：T1 月付 6 折，限香港 MICRO/NANO 与美国 NANO 连续 12 期
+# PO0 优惠码 sbbbbb：T1 月付 6 折，CCN 内网传输与极致稳定线路选型
 
 PO0（PortChannel Zero）这轮月付促销，优惠码 `sbbbbb` 打 6 折，只覆盖三款腾讯云 T1 套餐：香港 T1 MICRO、香港 T1 NANO、美国 T1 NANO。折后月价约为 ¥36、¥55.19、¥59.39（对应标价 ¥59.99、¥91.99、¥98.99），连续 12 个账单周期；第 13 期起以控制台结算与官方规则为准。
 
-适合月付试水、流量在 300G–500G 单向档的 T1 用户。要广州/华东 BGP 或年付锁价，可看站内 [PO0 双十一年付 1288 元活动](https://obvps.com/posts/po0双十一1288年付特惠) 与 [PO0 平台选购建议](https://obvps.com/posts/po0-vps平台介绍与选购建议)。
+适合月付试水、流量在 300G–500G 单向档的 T1 用户。要广州/华东 BGP 或年付锁价，可看站内 [PO0 双十一年付 1288 元活动](https://obvps.com/posts/po0双十一1288年付特惠) 与 [PO0 平台选购建议](https://obvps.com/posts/po0-vps平台介绍与选购建议)。关注 **IX**、**CCN** 内网传输方案的读者，也可结合下文的线路选型说明比较。
 
 ## 活动套餐对比
 
@@ -12,7 +12,7 @@ PO0（PortChannel Zero）这轮月付促销，优惠码 `sbbbbb` 打 6 折，只
 | 香港 T1 NANO | 2 核 2GB | 200Mbps | 500G 单向 | ¥91.99 | ¥55.19 | [立即订购](https://console.po0.io/aff.php?aff=67&pid=28) |
 | 美国 T1 NANO | 2 核 2GB | 200Mbps | 500G 单向 | ¥98.99 | ¥59.39 | [立即订购](https://console.po0.io/aff.php?aff=67&pid=55) |
 
-香港 T1 MICRO 活动展示折后价为 **¥36**，以结算页为准。三款都是 2 核 2GB，差别在带宽与单向流量额度。
+香港 T1 MICRO 活动展示折后价为 **¥36**，以结算页为准。三款均为 2 核 2GB，差别在带宽与单向流量额度。
 
 ## 适用条件
 
@@ -30,21 +30,25 @@ PO0（PortChannel Zero）这轮月付促销，优惠码 `sbbbbb` 打 6 折，只
 
 [PO0 控制台](https://console.po0.io/aff.php?aff=67)
 
-## 买前提示
+## 买前提示与线路选型说明
 
-据站内 [PO0 平台选购建议](https://obvps.com/posts/po0-vps平台介绍与选购建议)，**T1 香港**与**T1 美国**属于腾讯云 T1 产品线，商品页写明**国际优化链路**、**不包含国内优化**。面向大陆日常访问预期时，先看商品页限制再下单。
+据站内 [PO0 平台选购建议](https://obvps.com/posts/po0-vps平台介绍与选购建议)，**T1 香港**与**T1 美国**属于腾讯云 T1 产品线，商品页写明**国际优化链路**、**不包含国内优化**。如果目标是搭建**极致稳定线路**，还需结合接入、路由和实际测试判断；**CCN** 内网传输及 **IX** 相关方案可参看 [2026 腾讯云 CCN 内网线路推荐](https://obvps.com/posts/极致线路推荐po0)、[AKCDN SH-HK 沪港 IX CCN 专线实测](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide)，具体接入条件以各产品说明为准。
 
 ## 三款怎么选
 
 - **香港 T1 MICRO**：100Mbps、300G 单向，折后最便宜。
 - **香港 T1 NANO**：200Mbps、500G 单向，流量或带宽需求更高时再看这档。
-- **美国 T1 NANO**：与美区 T1 落点相同规格，需要美国出口时选这档。
+- **美国 T1 NANO**：2 核 2GB、200Mbps、500G 单向，按美国地区需求选择。
 
 ## 常见问题
 
 ### `sbbbbb` 能用于广州 BGP 或华东 BGP 吗？
 
 不能。活动仅含上表 3 款 T1 月付套餐。
+
+### 这次优惠是否覆盖 CCN、IX 方案的全部费用？
+
+活动仅列出三款 T1 月付折扣，未说明整套方案费用；涉及其他节点或互通服务时，应分别核对产品说明与账单。
 
 ### 优惠是永久的吗？
 
@@ -62,5 +66,6 @@ PO0（PortChannel Zero）这轮月付促销，优惠码 `sbbbbb` 打 6 折，只
 
 - [PO0 是什么平台？PortChannel Zero VPS 产品线、限制与选购建议（2026）](https://obvps.com/posts/po0-vps平台介绍与选购建议)
 - [2026 腾讯云 CCN 内网线路推荐：新增地区与套餐价格总表（持续更新）](https://obvps.com/posts/极致线路推荐po0)
+- [AKCDN SH-HK 沪港 IX CCN 专线实测：免前置机，10 元起可用（5 元小包仍不可用）](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide)
 
 > 活动说明整理于 2026-11-16。价格与优惠码有效性未在登录结算流程中独立验证；下单链接可能未直达指定套餐，请以套餐名称与结算页为准。价格、库存、套餐和限制条件可能随时变动，请以官网实时页面为准。
