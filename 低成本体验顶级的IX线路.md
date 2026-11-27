@@ -145,6 +145,8 @@ bash <(curl -s https://raw.githubusercontent.com/azoway/across/main/gost/gost.sh
 
 保存生效。
 
+若该入口节点开启来源白名单，这里应填**阿里云 G 口**访问 AKCDN 时的公网 IP，不是你家宽带出口。家用宽带直连 AKCDN 且 IP 常变时的自动加白，可参考社区项目 [akcdn_auto](https://github.com/azoway/akcdn_auto)（见仓库 README，非官方产品）。
+
 ***
 
 ## ③ 阿里云 G 口配置 NAT 转发
