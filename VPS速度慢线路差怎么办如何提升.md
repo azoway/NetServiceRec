@@ -11,8 +11,6 @@
 - **网站已套 Cloudflare，只有部分省份/运营商慢**：可能是本地到 Cloudflare 边缘 IP 的路由差，可尝试优选 IP（见下文）。
 - **你能直连 VPS，但跨境段一直飘**：适合评估 AKCDN 一类四层转发，把入口放到更靠近你的一侧。
 
-具体数值别靠猜。站内 [VPS 常用一键测试脚本汇总](https://obvps.com/posts/vps常用一键测试脚本工具汇总集合) 里有 bench、回程 ping、路由跟踪等入口；专线类链路更建议 tcping 监听端口，晚高峰用 MTR 看丢包，这和 [SH-HK 实测文](https://obvps.com/posts/akcdn-sh-hk-ix-no-frontend-guide) 里的建议一致。
-
 ## 启用 BBR 与 fq（本机侧、改动小）
 
 **BBR** 是 Google 提出的拥塞控制算法，在高延迟、有一定丢包的链路上，往往比传统 cubic 更容易把带宽吃满。**fq**（Fair Queue）配合 BBR 做队列调度，减少 bufferbloat。它们只能优化「你的 VPS 怎么发 TCP」，不能改掉北京到香港绕美这类路由；对已经瓶颈在国际出口的 VPS，体感可能有限，但开起来成本低，值得先做。
